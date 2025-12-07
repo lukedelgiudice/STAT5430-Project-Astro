@@ -1,0 +1,1132 @@
+{
+	"GameId": "946668708569007242",
+	"StartUnixTimestamp": "1763307877",
+	"GameMode": "Free For All",
+	"DurationSec": 177,
+	"Map": "Prison",
+	"AverageKillDistance": 0,
+	"TotalEliminations": 0,
+	"TotalSpawns": 1,
+	"misc":
+	{
+		"AverageSwordStabKillDistance": 0,
+		"NumSwordStabKills": 0,
+		"ShurikenDropShotKills": 0,
+		"ShurikenRegularShotKills": 0
+	},
+	"DeviceProfiles": [
+		{
+			"Username": "yeahmansteam",
+			"PlayerId": null,
+			"CPU":
+			{
+				"Name": "13th Gen Intel(R) Core(TM) i7-13700HX",
+				"Cores": 16,
+				"Threads": 24,
+				"MemorySizeMB": 30413
+			},
+			"Platform": "Windows",
+			"OSVersion": "10.0.26200.1.768.64bit",
+			"GPU":
+			{
+				"Name": "NVIDIA GeForce RTX 4060 Laptop GPU",
+				"VendorId": 4318,
+				"DeviceId": 10400,
+				"DriverVersion": "581.80",
+				"VideoMemoryMB": 7957
+			},
+			"RHIName": "D3D12",
+			"RHIFeatureLevel": 4,
+			"Settings":
+			{
+				"ResX": 1280,
+				"ResY": 800,
+				"WindowMode": "WindowedFullscreen",
+				"VSync": true,
+				"FrameRateLimit": 0,
+				"ScreenPercentage": 100,
+				"GraphicsQuality": 2,
+				"AntiAliasingMethod": "TAA",
+				"ColorBlindness": false
+			}
+		}
+	],
+	"Players":
+	{
+		"yeahmansteam":
+		{
+			"Kills": 0,
+			"Deaths": 0,
+			"AvgSpeed": 611.7,
+			"AvgMovingSpeed": 630.8,
+			"PlayTimeSec": 172.55,
+			"FloatTimeSec": 130.3,
+			"MagnetTimeSec": 42.25,
+			"Dashes": 5,
+			"DirDashes": 0,
+			"Kicks": 2
+		}
+	},
+	"Items":
+	{
+		"AstroRifle":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Boomerang":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Grapple":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Net":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Nightshade":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"QuadCannon":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Ripper":
+		{
+			"PlayTime": 172.55,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"RocketLauncher":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Sledge":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Spark":
+		{
+			"PlayTime": 172.55,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Sword":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Teleport":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"ThrowingStar":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		}
+	},
+	"events": [
+		{
+			"name": "join",
+			"stamp": 0,
+			"username": "yeahmansteam",
+			"id": 0,
+			"net_id": "|00021e3d9b5c49cfb0d985e9655d5f1e"
+		},
+		{
+			"name": "set_loadout",
+			"stamp": 0,
+			"player": 0,
+			"items": [
+				"Ripper",
+				"Spark"
+			]
+		},
+		{
+			"name": "set_team",
+			"stamp": 1,
+			"player": 0,
+			"team": 0
+		},
+		{
+			"name": "spawn",
+			"stamp": 1,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 2,
+			"player": 0,
+			"item": "Ripper"
+		},
+		{
+			"name": "dash",
+			"stamp": 93,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 146,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 169,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 219,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 230,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 277,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 291,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 352,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 376,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 417,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 431,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 498,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 523,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 556,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 574,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 641,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 670,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 765,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 789,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 889,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 903,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 957,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 969,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1004,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1024,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1037,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1064,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1115,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1138,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1178,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1219,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1259,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1280,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1337,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1367,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1400,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1429,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1502,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1528,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1590,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1616,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1665,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1689,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1753,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1773,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 1836,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 1864,
+			"player": 0,
+			"item": "Ripper"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1889,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1903,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1934,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1965,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1984,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2007,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2037,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2050,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2100,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2121,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2154,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2167,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2194,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2219,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2233,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2286,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2347,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2366,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2380,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2415,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2454,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2466,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2498,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2508,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2538,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2550,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2567,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2588,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2601,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2619,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2647,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2662,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2705,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2709,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2771,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2785,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2902,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2936,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 3004,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 3019,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 3062,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 3086,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 3133,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 3153,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 3208,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 3222,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 3281,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 3306,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 3351,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 3372,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 3391,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 3412,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 3471,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 3502,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 3515,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 3537,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 3611,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 3623,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 3653,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 3667,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 3757,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 3769,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 3846,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 3980,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 4024,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 4085,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 4107,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 4148,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 4163,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 4200,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 4217,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 4294,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 4306,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 4315,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 4357,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 4406,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 4425,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 4468,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 4488,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 4526,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 4539,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 4574,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 4595,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 4630,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 4644,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 4660,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 4681,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 4745,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 4771,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 4855,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 4873,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 5114,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 5216,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 5232,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 5264,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 5278,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 5310,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 5322,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 5347,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 5358,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 5402,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 5413,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 5428,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 5446,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 5465,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 5484,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 5545,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 5561,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 5673,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 5692,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 5802,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "dash",
+			"stamp": 5999,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 6102,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 6131,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 6167,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 6191,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 6232,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 6247,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 6274,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 6293,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 6405,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 6437,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 6480,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 6505,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 6530,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 6562,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 6607,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 6624,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 6677,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 6696,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 6775,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 6803,
+			"player": 0,
+			"item": "Ripper"
+		},
+		{
+			"name": "leave",
+			"stamp": 6903,
+			"id": 0
+		}
+	]
+}

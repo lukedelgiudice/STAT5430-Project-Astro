@@ -1,0 +1,9846 @@
+{
+	"GameId": "946659671959459816",
+	"StartUnixTimestamp": "1763291045",
+	"GameMode": "Free For All",
+	"DurationSec": 1177,
+	"Map": "Prison",
+	"AverageKillDistance": 300.7,
+	"TotalEliminations": 7,
+	"TotalSpawns": 8,
+	"misc":
+	{
+		"AverageSwordStabKillDistance": 0,
+		"NumSwordStabKills": 0,
+		"ShurikenDropShotKills": 0,
+		"ShurikenRegularShotKills": 0
+	},
+	"DeviceProfiles": [
+		{
+			"Username": "withradish",
+			"PlayerId": null,
+			"CPU":
+			{
+				"Name": "AMD Ryzen 5 7500F 6-Core Processor",
+				"Cores": 6,
+				"Threads": 12,
+				"MemorySizeMB": 32471
+			},
+			"Platform": "Windows",
+			"OSVersion": "10.0.26100.1.768.64bit",
+			"GPU":
+			{
+				"Name": "AMD Radeon RX 6800",
+				"VendorId": 4098,
+				"DeviceId": 29631,
+				"DriverVersion": "AMD Software: Adrenalin Edition 25.11.1",
+				"VideoMemoryMB": 16337
+			},
+			"RHIName": "D3D12",
+			"RHIFeatureLevel": 4,
+			"Settings":
+			{
+				"ResX": 2048,
+				"ResY": 1152,
+				"WindowMode": "WindowedFullscreen",
+				"VSync": false,
+				"FrameRateLimit": 0,
+				"ScreenPercentage": 100,
+				"GraphicsQuality": 2,
+				"AntiAliasingMethod": "TAA",
+				"ColorBlindness": false
+			}
+		},
+		{
+			"Username": "SoloRiotz",
+			"PlayerId": null,
+			"CPU":
+			{
+				"Name": "AMD Ryzen 7 4800H with Radeon Graphics",
+				"Cores": 8,
+				"Threads": 16,
+				"MemorySizeMB": 16253
+			},
+			"Platform": "Windows",
+			"OSVersion": "10.0.26200.1.768.64bit",
+			"GPU":
+			{
+				"Name": "NVIDIA GeForce GTX 1660 Ti",
+				"VendorId": 4318,
+				"DeviceId": 8593,
+				"DriverVersion": "581.42",
+				"VideoMemoryMB": 5966
+			},
+			"RHIName": "D3D12",
+			"RHIFeatureLevel": 4,
+			"Settings":
+			{
+				"ResX": 1536,
+				"ResY": 864,
+				"WindowMode": "WindowedFullscreen",
+				"VSync": false,
+				"FrameRateLimit": 0,
+				"ScreenPercentage": 100,
+				"GraphicsQuality": 2,
+				"AntiAliasingMethod": "TAA",
+				"ColorBlindness": false
+			}
+		}
+	],
+	"Players":
+	{
+		"withradish":
+		{
+			"Kills": 5,
+			"Deaths": 6,
+			"AvgSpeed": 604.3,
+			"AvgMovingSpeed": 458.9,
+			"PlayTimeSec": 1172.38,
+			"FloatTimeSec": 958.95,
+			"MagnetTimeSec": 183.43,
+			"Dashes": 135,
+			"DirDashes": 2,
+			"Kicks": 26
+		},
+		"SoloRiotz":
+		{
+			"Kills": 2,
+			"Deaths": 1,
+			"AvgSpeed": 494.4,
+			"AvgMovingSpeed": 500.7,
+			"PlayTimeSec": 112.22,
+			"FloatTimeSec": 110.1,
+			"MagnetTimeSec": 0,
+			"Dashes": 22,
+			"DirDashes": 1,
+			"Kicks": 0
+		}
+	},
+	"Items":
+	{
+		"AstroRifle":
+		{
+			"PlayTime": 110.1,
+			"Kills": 1,
+			"Deaths": 1,
+			"InvKills": 2,
+			"InvDeaths": 1,
+			"AvgKillDist": 737.8
+		},
+		"Boomerang":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Grapple":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Net":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Nightshade":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"QuadCannon":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Ripper":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"RocketLauncher":
+		{
+			"PlayTime": 1142.38,
+			"Kills": 5,
+			"Deaths": 6,
+			"InvKills": 5,
+			"InvDeaths": 6,
+			"AvgKillDist": 90
+		},
+		"Sledge":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Spark":
+		{
+			"PlayTime": 110.1,
+			"Kills": 1,
+			"Deaths": 0,
+			"InvKills": 2,
+			"InvDeaths": 1,
+			"AvgKillDist": 917.2
+		},
+		"Sword":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Teleport":
+		{
+			"PlayTime": 1142.38,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 5,
+			"InvDeaths": 6,
+			"AvgKillDist": 0
+		},
+		"ThrowingStar":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		}
+	},
+	"events": [
+		{
+			"name": "join",
+			"stamp": 0,
+			"username": "withradish",
+			"id": 0,
+			"net_id": "|000221f1542f4db289d2cc1e615a688d"
+		},
+		{
+			"name": "set_loadout",
+			"stamp": 0,
+			"player": 0,
+			"items": [
+				"RocketLauncher",
+				"Teleport"
+			]
+		},
+		{
+			"name": "set_team",
+			"stamp": 1,
+			"player": 0,
+			"team": 0
+		},
+		{
+			"name": "spawn",
+			"stamp": 1,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 2,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 123,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 133,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 143,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 157,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 177,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 199,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 215,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 232,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 239,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 240,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 242,
+			"player": 0,
+			"loc": [ -4641,
+				485,
+				132
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 273,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 355,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 488,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 488,
+			"player": 0,
+			"loc": [ -4585,
+				515,
+				114
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 522,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 604,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 632,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 644,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 730,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 741,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 777,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 783,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 804,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 808,
+			"player": 0,
+			"loc": [ -2020,
+				-585,
+				652
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 838,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 863,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 872,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 899,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "finish_load",
+			"stamp": 920,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1002,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1012,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1043,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1055,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1191,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1201,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1244,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1256,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1264,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1283,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1373,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1413,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1459,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1470,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 1545,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1559,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1578,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 1602,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 1610,
+			"player": 0,
+			"loc": [ -1519,
+				417,
+				114
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 1636,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 1718,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 1728,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 1739,
+			"player": 0,
+			"loc": [ -914,
+				598,
+				124
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 1762,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 1844,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 1935,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 1939,
+			"player": 0,
+			"loc": [ -220,
+				581,
+				514
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 1969,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 2051,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2060,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2070,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 2086,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 2092,
+			"player": 0,
+			"loc": [ -1198,
+				1040,
+				114
+			]
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2120,
+			"player": 0
+		},
+		{
+			"name": "start_load",
+			"stamp": 2120,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2139,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 2181,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "finish_load",
+			"stamp": 2202,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2231,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2260,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2402,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2411,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2450,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2455,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2474,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2482,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 2526,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 2531,
+			"player": 0,
+			"loc": [ -4585,
+				-48,
+				234
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 2560,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2574,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2632,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 2642,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2645,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2655,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2669,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 2729,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2744,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2780,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 2816,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 2822,
+			"player": 0,
+			"loc": [ -1908,
+				2335,
+				234
+			]
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2846,
+			"player": 0
+		},
+		{
+			"name": "start_load",
+			"stamp": 2850,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2855,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2897,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2916,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 2932,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2939,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2951,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2996,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 3007,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 3049,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 3051,
+			"player": 0,
+			"loc": [ -185,
+				948,
+				424
+			]
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 3074,
+			"player": 0
+		},
+		{
+			"name": "start_load",
+			"stamp": 3083,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 3086,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 3120,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "finish_load",
+			"stamp": 3165,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 3191,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 3209,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 3251,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 3276,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 3293,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 3369,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 3376,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 3400,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 3404,
+			"player": 0,
+			"loc": [ -1885,
+				632,
+				679
+			]
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 3429,
+			"player": 0
+		},
+		{
+			"name": "start_load",
+			"stamp": 3434,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 3473,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 3516,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 3532,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 3545,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 3659,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 3673,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 3703,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 3741,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 3750,
+			"player": 0,
+			"loc": [ -1573,
+				745,
+				114
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 3775,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 3789,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 3790,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 3857,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 3907,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 3913,
+			"player": 0,
+			"loc": [ -2030,
+				2156,
+				937
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 3941,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 3963,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 3969,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 4014,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 4016,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 4023,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 4058,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 4097,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 4098,
+			"player": 0,
+			"loc": [ 381,
+				1569,
+				210
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 4131,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 4160,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 4170,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 4213,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 4273,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 4285,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 4349,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 4365,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 4378,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 4389,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 4394,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 4407,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 4454,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 4466,
+			"player": 0,
+			"loc": [ -2768,
+				-585,
+				583
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 4488,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 4509,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "finish_load",
+			"stamp": 4570,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 4574,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 4593,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 4616,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 4629,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 4676,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 4687,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 4709,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 4718,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 4768,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 4841,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 4856,
+			"player": 0,
+			"loc": [ 1485,
+				-2008,
+				-198
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 4875,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 4892,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 4913,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 4948,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 4957,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 4957,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 4965,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 5003,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 5013,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 5071,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 5082,
+			"player": 0,
+			"loc": [ -1800,
+				-2085,
+				818
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 5105,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 5114,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "finish_load",
+			"stamp": 5187,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 5187,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 5195,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 5228,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 5236,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 5279,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 5286,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 5320,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 5367,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 5382,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 5387,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 5387,
+			"player": 0,
+			"loc": [ -914,
+				901,
+				428
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 5421,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 5448,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 5484,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 5495,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 5503,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 5510,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 5519,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 5544,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 5558,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 5598,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 5644,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 5653,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 5739,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 5760,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 5782,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 5794,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 5828,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 5852,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 6170,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 7276,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 7350,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 7355,
+			"player": 0,
+			"loc": [ 60,
+				59,
+				114
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 7384,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 7466,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 7490,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 7501,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 7570,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 7580,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 7638,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 7646,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 7688,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 7701,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 7719,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 7765,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 7793,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 7796,
+			"player": 0,
+			"loc": [ -1701,
+				1252,
+				114
+			]
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 7818,
+			"player": 0
+		},
+		{
+			"name": "start_load",
+			"stamp": 7827,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 7867,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 7908,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "finish_load",
+			"stamp": 7909,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 7949,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 7964,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 8008,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 8032,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 8073,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 8094,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 8095,
+			"player": 0,
+			"loc": [ -685,
+				2166,
+				154
+			]
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 8119,
+			"player": 0
+		},
+		{
+			"name": "start_load",
+			"stamp": 8128,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 8141,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 8209,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 8210,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 8218,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 8245,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 8257,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 8308,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 8323,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 8368,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 8387,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 8407,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 8455,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 8495,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 8500,
+			"player": 0,
+			"loc": [ 2498,
+				1389,
+				385
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 8529,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 8555,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 8596,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 8604,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 8611,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 8620,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 8630,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 8645,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 8650,
+			"player": 0,
+			"loc": [ 4140,
+				1438,
+				247
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 8679,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 8706,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 8712,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 8734,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 8749,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 8761,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 8775,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 8792,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 8839,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 8899,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 8903,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 8964,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 9007,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 9034,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 9035,
+			"player": 0,
+			"loc": [ 902,
+				-685,
+				260
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 9068,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 9097,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 9103,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 9150,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 9166,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 9197,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 9246,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 9252,
+			"player": 0,
+			"loc": [ -1464,
+				-961,
+				114
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 9280,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 9313,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 9325,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 9356,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "finish_load",
+			"stamp": 9362,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 9392,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 9454,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 9473,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 9486,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 9539,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 9549,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 9567,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 9586,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 9617,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 9680,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 9758,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 9784,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 9791,
+			"player": 0,
+			"loc": [ -3492,
+				487,
+				130
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 9818,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 9851,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 9863,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 9879,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 9886,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 9900,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 9941,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 9955,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 9981,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 10000,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 10015,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 10055,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 10090,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 10111,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 10112,
+			"player": 0,
+			"loc": [ -185,
+				530,
+				454
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 10145,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 10148,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 10162,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 10195,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 10220,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 10227,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 10251,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 10303,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 10309,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 10371,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 10382,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 10411,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 10415,
+			"player": 0,
+			"loc": [ 2985,
+				803,
+				256
+			]
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 10440,
+			"player": 0
+		},
+		{
+			"name": "start_load",
+			"stamp": 10445,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 10454,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 10509,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 10527,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 10607,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 10632,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 10662,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 10673,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 10762,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 10805,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 10819,
+			"player": 0,
+			"loc": [ -2185,
+				-227,
+				530
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 10839,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 10921,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 11001,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 11026,
+			"player": 0,
+			"loc": [ -1618,
+				2335,
+				410
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 11035,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 11117,
+			"player": 0
+		},
+		{
+			"name": "fire",
+			"stamp": 11129,
+			"player": 0,
+			"damager": "Rocket:11:6",
+			"origin": [ -906,
+				405,
+				495
+			],
+			"dir": [ 0,
+				-15
+			]
+		},
+		{
+			"name": "damage",
+			"stamp": 11129,
+			"target": 0,
+			"damage": 10,
+			"prev_health": 10,
+			"instigator": 0,
+			"causer": "Rocket:11:6",
+			"node": "NTRocketComponent:19:6",
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "elim",
+			"stamp": 11129,
+			"target": 0,
+			"instigator": 0,
+			"causer": "Rocket:11:6",
+			"node": "NTRocketComponent:19:6",
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "explode",
+			"stamp": 11129,
+			"player": 0,
+			"loc": [ -914,
+				406,
+				493
+			]
+		},
+		{
+			"name": "spawn",
+			"stamp": 11329,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 11330,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "equip",
+			"stamp": 11366,
+			"player": 0,
+			"item": "Teleport"
+		},
+		{
+			"name": "throw",
+			"stamp": 11401,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 11647,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "expire",
+			"stamp": 11727,
+			"player": 0
+		},
+		{
+			"name": "throw",
+			"stamp": 11788,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 11926,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "expire",
+			"stamp": 12114,
+			"player": 0
+		},
+		{
+			"name": "throw",
+			"stamp": 12163,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 12249,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 12315,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 12361,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 12398,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 12429,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "teleport",
+			"stamp": 12439,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 12593,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "equip",
+			"stamp": 12660,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 12696,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 12702,
+			"player": 0,
+			"loc": [ 596,
+				135,
+				114
+			]
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 12730,
+			"player": 0
+		},
+		{
+			"name": "start_load",
+			"stamp": 12730,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 12762,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 12772,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 12812,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 12851,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 12868,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 12905,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 12915,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 12974,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 13002,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 13027,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 13040,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 13083,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 13096,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 13096,
+			"player": 0,
+			"loc": [ 1885,
+				866,
+				309
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 13130,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 13131,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 13143,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 13163,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 13175,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 13195,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 13208,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 13212,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 13251,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 13262,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 13300,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 13313,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 13338,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 13377,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 13386,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 13414,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 13419,
+			"player": 0,
+			"loc": [ -3112,
+				1466,
+				300
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 13448,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 13500,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 13508,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 13527,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "finish_load",
+			"stamp": 13530,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 13559,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 13567,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 13577,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 13580,
+			"player": 0,
+			"loc": [ -819,
+				1459,
+				269
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 13611,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 13613,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 13637,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 13673,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 13687,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 13693,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 13731,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 13740,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 13762,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 13833,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 13842,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 13863,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 13870,
+			"player": 0,
+			"loc": [ -611,
+				1021,
+				679
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 13897,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 13907,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 13914,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 13979,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 13984,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 14004,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 14060,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 14160,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 14174,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 14231,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 14241,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 14296,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 14307,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 14332,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 14369,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 14375,
+			"player": 0,
+			"loc": [ 182,
+				91,
+				114
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 14403,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 14476,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "finish_load",
+			"stamp": 14485,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 14511,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 14517,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 14651,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 14679,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 14706,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 14715,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 14757,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 14768,
+			"player": 0,
+			"loc": [ -1818,
+				-593,
+				451
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 14791,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 14859,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 14872,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 14900,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 14950,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 14953,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 14975,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 14989,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 15040,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 15053,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 15069,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 15076,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 15101,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 15104,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 15104,
+			"player": 0,
+			"loc": [ -414,
+				2168,
+				215
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 15138,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 15148,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 15187,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 15210,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 15220,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 15243,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 15262,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 15272,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 15287,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 15315,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 15377,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 15403,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 15437,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 15465,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 15501,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 15512,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 15746,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 15756,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 15786,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 15817,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 15827,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 15856,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 15881,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 15884,
+			"player": 0,
+			"loc": [ 1885,
+				916,
+				284
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 15915,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 15919,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 15958,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 15976,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 15992,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 15997,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 16036,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 16046,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 16051,
+			"player": 0,
+			"loc": [ 435,
+				1040,
+				307
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 16080,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 16087,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 16093,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 16117,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "finish_load",
+			"stamp": 16162,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 16174,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 16186,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 16201,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 16210,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 16231,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 16240,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 16281,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 16352,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 16355,
+			"player": 0,
+			"loc": [ -4234,
+				-244,
+				263
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 16386,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 16407,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 16417,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 16447,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 16463,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 16468,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 16488,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 16516,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 16640,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 16661,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 16693,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 16712,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 16720,
+			"player": 0,
+			"loc": [ -3149,
+				-948,
+				114
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 16746,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 16828,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 16829,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 16837,
+			"player": 0,
+			"loc": [ -2492,
+				-914,
+				264
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 16863,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 16945,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 16960,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 16966,
+			"player": 0,
+			"loc": [ -985,
+				-1156,
+				492
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 16994,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 16998,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 17026,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "start_load",
+			"stamp": 17048,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 17130,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 17963,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 17967,
+			"player": 0,
+			"loc": [ 98,
+				-1535,
+				447
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 17997,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 18019,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 18038,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 18045,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 18066,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 18079,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 18083,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 18092,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 18118,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 18126,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 18160,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 18170,
+			"player": 0,
+			"loc": [ 2637,
+				-85,
+				176
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 18194,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 18195,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 18215,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 18236,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 18246,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 18256,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 18276,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 18316,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 18334,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 18342,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 18376,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 18382,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 18435,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 18439,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 18489,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 18523,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 18540,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 18552,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 18567,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 18634,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 18638,
+			"player": 0,
+			"loc": [ -2633,
+				2077,
+				114
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 18668,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 18675,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 18685,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 18690,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 18709,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 18724,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 18750,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 18757,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 18763,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 18792,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 18804,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 18836,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 18842,
+			"player": 0,
+			"loc": [ 217,
+				790,
+				114
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 18870,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 18872,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "finish_load",
+			"stamp": 18952,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 18966,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 18987,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 19064,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 19066,
+			"player": 0,
+			"loc": [ -569,
+				-1535,
+				673
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 19098,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 19152,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 19161,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 19180,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 19190,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 19212,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 19231,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 19324,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 19377,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 19391,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 19402,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 19424,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 19520,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 19529,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 19569,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 19580,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 19588,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 19598,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 19614,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 19646,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 19673,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 19683,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 19685,
+			"player": 0,
+			"loc": [ -580,
+				-1535,
+				237
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 19717,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 19750,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 19771,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "start_load",
+			"stamp": 19793,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 19875,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 19999,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 20001,
+			"player": 0,
+			"loc": [ -2820,
+				-1258,
+				170
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 20033,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 20064,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "finish_load",
+			"stamp": 20115,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 20242,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 20245,
+			"player": 0,
+			"loc": [ -2285,
+				-788,
+				358
+			]
+		},
+		{
+			"name": "dash",
+			"stamp": 20263,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "dash",
+			"stamp": 20269,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "start_load",
+			"stamp": 20276,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 20358,
+			"player": 0
+		},
+		{
+			"name": "fire",
+			"stamp": 20377,
+			"player": 0,
+			"damager": "Rocket:8:5",
+			"origin": [ -2238,
+				-913,
+				331
+			],
+			"dir": [ -8,
+				149
+			]
+		},
+		{
+			"name": "damage",
+			"stamp": 20379,
+			"target": 0,
+			"damage": 10,
+			"prev_health": 10,
+			"instigator": 0,
+			"causer": "Rocket:8:5",
+			"node": "NTRocketComponent:10:5",
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "elim",
+			"stamp": 20379,
+			"target": 0,
+			"instigator": 0,
+			"causer": "Rocket:8:5",
+			"node": "NTRocketComponent:10:5",
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "explode",
+			"stamp": 20379,
+			"player": 0,
+			"loc": [ -2285,
+				-885,
+				323
+			]
+		},
+		{
+			"name": "spawn",
+			"stamp": 20579,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 20580,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 20685,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 20689,
+			"player": 0,
+			"loc": [ -533,
+				3285,
+				751
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 20719,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 20728,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 20745,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "start_load",
+			"stamp": 20767,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 20849,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 20904,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 20908,
+			"player": 0,
+			"loc": [ -2077,
+				3385,
+				551
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 20938,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 20939,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 20960,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "start_load",
+			"stamp": 20982,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 20997,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 21043,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 21064,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 21093,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 21172,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 21176,
+			"player": 0,
+			"loc": [ -1505,
+				2826,
+				754
+			]
+		},
+		{
+			"name": "dash",
+			"stamp": 21206,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "start_load",
+			"stamp": 21206,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 21235,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 21237,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 21243,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 21271,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 21288,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 21354,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 21358,
+			"player": 0,
+			"loc": [ 1143,
+				1899,
+				340
+			]
+		},
+		{
+			"name": "dash",
+			"stamp": 21382,
+			"player": 0,
+			"dir": "-Y"
+		},
+		{
+			"name": "kick",
+			"stamp": 21388,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 21402,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "start_load",
+			"stamp": 21424,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 21480,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 21506,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 21506,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 22665,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 22670,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 22722,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 22732,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 22757,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 23386,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 23416,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 23484,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 23491,
+			"player": 0,
+			"loc": [ 3785,
+				-554,
+				243
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 23518,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 23534,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "finish_load",
+			"stamp": 23600,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 23606,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 23608,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 23615,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 23629,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 23671,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 23689,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 23806,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 23843,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 23860,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 23926,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 23963,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 23995,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 24000,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 24004,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 24017,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 24052,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 24085,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 24090,
+			"player": 0,
+			"loc": [ 785,
+				45,
+				708
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 24119,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 24149,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 24165,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 24201,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 24225,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 24228,
+			"player": 0,
+			"loc": [ -1582,
+				-185,
+				446
+			]
+		},
+		{
+			"name": "dash",
+			"stamp": 24251,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "start_load",
+			"stamp": 24259,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 24341,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 24350,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 24353,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 24364,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 24371,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 24421,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 24424,
+			"player": 0,
+			"loc": [ -85,
+				-185,
+				584
+			]
+		},
+		{
+			"name": "dash",
+			"stamp": 24442,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "dash",
+			"stamp": 24447,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "start_load",
+			"stamp": 24455,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 24537,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 24603,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 24614,
+			"player": 0,
+			"loc": [ 28,
+				1585,
+				783
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 24637,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 24647,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "finish_load",
+			"stamp": 24719,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 24720,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 24733,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 24771,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 24782,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 24860,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 24885,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "fire",
+			"stamp": 24885,
+			"player": 0,
+			"damager": "Rocket:15:8",
+			"origin": [ 2815,
+				-100,
+				557
+			],
+			"dir": [ 7,
+				-80
+			]
+		},
+		{
+			"name": "damage",
+			"stamp": 24885,
+			"target": 0,
+			"damage": 10,
+			"prev_health": 10,
+			"instigator": 0,
+			"causer": "Rocket:15:8",
+			"node": "NTRocketComponent:21:8",
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "elim",
+			"stamp": 24885,
+			"target": 0,
+			"instigator": 0,
+			"causer": "Rocket:15:8",
+			"node": "NTRocketComponent:21:8",
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "explode",
+			"stamp": 24885,
+			"player": 0,
+			"loc": [ 2818,
+				-117,
+				559
+			]
+		},
+		{
+			"name": "spawn",
+			"stamp": 25085,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 25086,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 25187,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 25201,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 25207,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 25211,
+			"player": 0,
+			"loc": [ 2785,
+				1904,
+				152
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 25241,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 25256,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 25308,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 25317,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 25323,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 25335,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 25345,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 25388,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 25398,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 25415,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 25424,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 25581,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 25584,
+			"player": 0,
+			"loc": [ 41,
+				-185,
+				349
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 25615,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 25623,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "kick",
+			"stamp": 25626,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 25651,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "start_load",
+			"stamp": 25673,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 25755,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 25811,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 25822,
+			"player": 0,
+			"loc": [ 1478,
+				-2085,
+				-138
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 25845,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 25922,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 25927,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 25936,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 25946,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 25992,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 26020,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 26043,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 26045,
+			"player": 0,
+			"loc": [ -1209,
+				-1538,
+				282
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 26077,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 26091,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 26120,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 26148,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 26159,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 26190,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 26220,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 26230,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 26241,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 26252,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 26322,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 26325,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 26344,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 26354,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 26393,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 26416,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 26417,
+			"player": 0,
+			"loc": [ -2386,
+				714,
+				167
+			]
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 26447,
+			"player": 0
+		},
+		{
+			"name": "start_load",
+			"stamp": 26450,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 26504,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 26532,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 26577,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 26593,
+			"player": 0,
+			"loc": [ -2485,
+				1184,
+				273
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 26611,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 26624,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 26633,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 26693,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 26826,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 26842,
+			"player": 0,
+			"loc": [ -394,
+				-2016,
+				1185
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 26860,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 26898,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 26908,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 26940,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "finish_load",
+			"stamp": 26942,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 26968,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 26975,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 27028,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 27037,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 27064,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 27082,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 27115,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 27126,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 27159,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 27167,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 27203,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 27223,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 27239,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 27246,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 27283,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 27286,
+			"player": 0,
+			"loc": [ -2385,
+				2297,
+				224
+			]
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 27314,
+			"player": 0
+		},
+		{
+			"name": "start_load",
+			"stamp": 27317,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 27325,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 27358,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 27370,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 27399,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 27399,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 27427,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 27464,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 27475,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 27482,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 27485,
+			"player": 0,
+			"loc": [ 955,
+				-385,
+				662
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 27516,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 27517,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 27533,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 27557,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 27575,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 27598,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 27615,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 27659,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 27669,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 27683,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 27695,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 27768,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 27799,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 27810,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 27891,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 27895,
+			"player": 0,
+			"loc": [ -4185,
+				-1458,
+				514
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 27925,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 28007,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 28016,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 28027,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 28071,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 28084,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 28128,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 28156,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 28228,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 28239,
+			"player": 0,
+			"loc": [ 290,
+				242,
+				114
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 28262,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 28320,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 28333,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 28344,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 28357,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 28369,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 28479,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 28483,
+			"player": 0,
+			"loc": [ -914,
+				297,
+				556
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 28513,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 28513,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 28531,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 28546,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 28575,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 28584,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 28595,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 28615,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 28634,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 28681,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 28703,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 28735,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 28763,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 28786,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 28786,
+			"player": 0,
+			"loc": [ -838,
+				1176,
+				115
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 28820,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 28902,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 28921,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 28933,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 28944,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 28958,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 29015,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 29043,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 29068,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 29075,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 29100,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 29112,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 29127,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 29130,
+			"player": 0,
+			"loc": [ 2985,
+				338,
+				168
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 29161,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 29168,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 29184,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 29194,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 29210,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 29232,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 29243,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 29248,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 29288,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 29351,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 29359,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 29399,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 29407,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 29428,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 29442,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 29507,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 29517,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 29541,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 29547,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 29566,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 29569,
+			"player": 0,
+			"loc": [ -3031,
+				1547,
+				149
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 29600,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 29611,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 29646,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "start_load",
+			"stamp": 29668,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 29750,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 29751,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 29759,
+			"player": 0,
+			"loc": [ -4198,
+				-279,
+				410
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 29785,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 29788,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 29796,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 29817,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 29861,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 29867,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 29876,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 29901,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 29909,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 29952,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 29973,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 29988,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 30037,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 30046,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 30067,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 30103,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 30109,
+			"player": 0,
+			"loc": [ -120,
+				1585,
+				240
+			]
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 30135,
+			"player": 0
+		},
+		{
+			"name": "start_load",
+			"stamp": 30137,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 30146,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 30165,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 30172,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 30212,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 30228,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 30256,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 30408,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 30447,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 30475,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 30505,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 30506,
+			"player": 0,
+			"loc": [ -137,
+				850,
+				123
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 30539,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 30539,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 30598,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 30607,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 30621,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 30676,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 30750,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 30762,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 30786,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 30834,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 30838,
+			"player": 0,
+			"loc": [ -1958,
+				1385,
+				262
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 30868,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 30869,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 30902,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 30910,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 30925,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 30942,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 30950,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 30959,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 31012,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 31014,
+			"player": 0,
+			"loc": [ -6305,
+				114,
+				407
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 31046,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 31114,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 31121,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 31128,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 31135,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 31150,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 31165,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 31177,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 31217,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 31250,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 31259,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 31301,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 31303,
+			"player": 0,
+			"loc": [ -3399,
+				2035,
+				229
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 31335,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 31350,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 31411,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 31417,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 31429,
+			"player": 0
+		},
+		{
+			"name": "fire",
+			"stamp": 31460,
+			"player": 0,
+			"damager": "Rocket:7:10",
+			"origin": [ -405,
+				52,
+				348
+			],
+			"dir": [ 0,
+				50
+			]
+		},
+		{
+			"name": "damage",
+			"stamp": 31465,
+			"target": 0,
+			"damage": 10,
+			"prev_health": 10,
+			"instigator": 0,
+			"causer": "Rocket:7:10",
+			"node": "NTRocketComponent:20:15",
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "elim",
+			"stamp": 31465,
+			"target": 0,
+			"instigator": 0,
+			"causer": "Rocket:7:10",
+			"node": "NTRocketComponent:20:15",
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "explode",
+			"stamp": 31465,
+			"player": 0,
+			"loc": [ -296,
+				185,
+				349
+			]
+		},
+		{
+			"name": "spawn",
+			"stamp": 31665,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 31666,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 31733,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 31739,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 31758,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 31767,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 31796,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 31808,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 31854,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 31870,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 31888,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 31921,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 31927,
+			"player": 0,
+			"loc": [ 3585,
+				-685,
+				460
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 31955,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 32017,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 32029,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 32037,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 32046,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 32058,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 32086,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 32109,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 32130,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 32143,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 32183,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 32191,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 32206,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 32223,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 32227,
+			"player": 0,
+			"loc": [ 1924,
+				1214,
+				193
+			]
+		},
+		{
+			"name": "dash",
+			"stamp": 32245,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "start_load",
+			"stamp": 32257,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 32322,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 32338,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 32339,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 32374,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 32379,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 32403,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 32453,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 32462,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 32481,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 32512,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 32543,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 32564,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 32574,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 32608,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 32647,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 32651,
+			"player": 0,
+			"loc": [ -2558,
+				2812,
+				214
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 32681,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 32718,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "finish_load",
+			"stamp": 32763,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 32779,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 32784,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 32797,
+			"player": 0,
+			"item": "Teleport"
+		},
+		{
+			"name": "throw",
+			"stamp": 32812,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 32825,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 32853,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 32857,
+			"player": 0,
+			"loc": [ -4585,
+				1067,
+				383
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 32887,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 32900,
+			"player": 0,
+			"item": "Teleport"
+		},
+		{
+			"name": "teleport",
+			"stamp": 32913,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 32936,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "start_load",
+			"stamp": 32958,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 32998,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 33005,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 33019,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "finish_load",
+			"stamp": 33040,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 33042,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 33062,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 33126,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 33144,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 33187,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 33199,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 33209,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 33249,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 33259,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 33274,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 33282,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 33302,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 33311,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 33327,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 33330,
+			"player": 0,
+			"loc": [ -1734,
+				-305,
+				514
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 33361,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 33415,
+			"player": 0,
+			"item": "Teleport"
+		},
+		{
+			"name": "throw",
+			"stamp": 33440,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 33460,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "start_load",
+			"stamp": 33482,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 33491,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 33502,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 33564,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 33579,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 33592,
+			"player": 0,
+			"item": "Teleport"
+		},
+		{
+			"name": "teleport",
+			"stamp": 33620,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 33636,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 33659,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 33660,
+			"player": 0,
+			"loc": [ -693,
+				1091,
+				113
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 33693,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 33716,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 33726,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 33750,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "finish_load",
+			"stamp": 33775,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 33805,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 33814,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 33854,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 33871,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 33890,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 33899,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 33913,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 33916,
+			"player": 0,
+			"loc": [ -656,
+				-1535,
+				267
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 33947,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 34029,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 34032,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 34069,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 34077,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 34077,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 34079,
+			"player": 0,
+			"loc": [ -1207,
+				-1655,
+				626
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 34111,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 34161,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "finish_load",
+			"stamp": 34193,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 34201,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 34212,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 34251,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 34258,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 34296,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 34306,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 34315,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 34324,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 34347,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 34385,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 34389,
+			"player": 0,
+			"loc": [ -4317,
+				1177,
+				114
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 34419,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 34440,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 34446,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 34479,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "finish_load",
+			"stamp": 34501,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 34546,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 34553,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 34597,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 34613,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 34640,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 34672,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 34680,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 34730,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 34732,
+			"player": 0,
+			"loc": [ -4504,
+				492,
+				114
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 34764,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 34813,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "finish_load",
+			"stamp": 34846,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 34863,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 34871,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 34933,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 34943,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 34966,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 34991,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 35003,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 35016,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 35038,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 35065,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 35088,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 35117,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 35121,
+			"player": 0,
+			"loc": [ -1885,
+				761,
+				838
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 35151,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 35157,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 35170,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 35233,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 35295,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 35296,
+			"player": 0,
+			"loc": [ -458,
+				-385,
+				802
+			]
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 35326,
+			"player": 0
+		},
+		{
+			"name": "start_load",
+			"stamp": 35329,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 35342,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 35376,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "finish_load",
+			"stamp": 35411,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 35419,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 35427,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 35465,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 35486,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 35514,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 35644,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 35663,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 35679,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 35717,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 35734,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 35737,
+			"player": 0,
+			"loc": [ 1275,
+				2,
+				514
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 35768,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 35771,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 35820,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 35840,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 35868,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 35926,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 35941,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 35956,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 35968,
+			"player": 0,
+			"loc": [ 77,
+				1585,
+				610
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 35990,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 35994,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 36012,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 36029,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 36069,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 36072,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 36317,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 36319,
+			"player": 0,
+			"loc": [ -3202,
+				481,
+				114
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 36351,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 36367,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "finish_load",
+			"stamp": 36433,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 36433,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 36467,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 36481,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 36504,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 36548,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 36580,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 36596,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 36688,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 36716,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 36745,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 36753,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 36799,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 36849,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 36880,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 36982,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 36988,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 37023,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 37032,
+			"player": 0,
+			"loc": [ -2463,
+				-1285,
+				118
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 37057,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 37069,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 37096,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 37127,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "finish_load",
+			"stamp": 37139,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 37209,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 37218,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 37245,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 37266,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 37279,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 37317,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 37331,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 37355,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 37388,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 37400,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 37406,
+			"player": 0,
+			"loc": [ -1697,
+				1935,
+				598
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 37434,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 37505,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 37512,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 37516,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 37529,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 37568,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 37579,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 37593,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 37596,
+			"player": 0,
+			"loc": [ 139,
+				177,
+				114
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 37627,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 37632,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 37645,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 37677,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 37685,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 37696,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 37706,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 37709,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 37731,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 37765,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 37774,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 37786,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 37791,
+			"player": 0,
+			"loc": [ 2548,
+				-85,
+				212
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 37820,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 37821,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 37836,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 37845,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 37876,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 37898,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 37902,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 37915,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 37932,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 37992,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 38029,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 38096,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 38102,
+			"player": 0,
+			"loc": [ 2735,
+				2485,
+				419
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 38130,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 38193,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 38203,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 38212,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 38288,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 38319,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 38331,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 38385,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 38404,
+			"player": 0,
+			"loc": [ 453,
+				-2085,
+				433
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 38419,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 38430,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 38439,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 38458,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 38492,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 38501,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 38503,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 38631,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 38639,
+			"player": 0,
+			"loc": [ -2395,
+				1714,
+				362
+			]
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 38663,
+			"player": 0
+		},
+		{
+			"name": "start_load",
+			"stamp": 38665,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 38680,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 38693,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "finish_load",
+			"stamp": 38747,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 38750,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 38754,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 38794,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 38804,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 38829,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 38869,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 38878,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 38905,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 38911,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 38964,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 38975,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 39035,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 39041,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 39054,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 39058,
+			"player": 0,
+			"loc": [ 11,
+				-1535,
+				519
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 39088,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 39093,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 39113,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 39133,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 39158,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 39170,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 39184,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 39253,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 39264,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 39281,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 39291,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 39354,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 39364,
+			"player": 0,
+			"loc": [ 3085,
+				-191,
+				427
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 39388,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 39395,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 39422,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 39438,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 39454,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 39470,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 39471,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 39491,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 39499,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 39534,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 39535,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 39536,
+			"player": 0,
+			"loc": [ 1091,
+				414,
+				309
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 39569,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 39607,
+			"player": 0,
+			"item": "Teleport"
+		},
+		{
+			"name": "dash",
+			"stamp": 39629,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "equip",
+			"stamp": 39692,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "start_load",
+			"stamp": 39714,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 39715,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 39724,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 39796,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 39805,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 39825,
+			"player": 0,
+			"loc": [ 435,
+				1028,
+				638
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 39839,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 39845,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 39855,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 39921,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 39935,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 39955,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 39973,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 39973,
+			"player": 0,
+			"loc": [ -3029,
+				575,
+				114
+			]
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 39999,
+			"player": 0
+		},
+		{
+			"name": "start_load",
+			"stamp": 40007,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 40016,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 40079,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 40089,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 40090,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 40101,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 40114,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 40176,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 40201,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 40209,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 40227,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 40277,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 40280,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 40306,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 40311,
+			"player": 0,
+			"loc": [ 199,
+				647,
+				114
+			]
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 40337,
+			"player": 0
+		},
+		{
+			"name": "start_load",
+			"stamp": 40340,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 40355,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 40367,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 40412,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 40422,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 40428,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 40493,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 40505,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 40521,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 40543,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 40596,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 40610,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 40658,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 40665,
+			"player": 0,
+			"loc": [ -399,
+				1065,
+				985
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 40692,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 40706,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 40713,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 40741,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 40750,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 40774,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 40774,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 40841,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 40849,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 40877,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 40909,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 40953,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 40956,
+			"player": 0,
+			"loc": [ -1887,
+				-976,
+				114
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 40987,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 41069,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 41297,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 41299,
+			"player": 0,
+			"loc": [ -1214,
+				-252,
+				653
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 41331,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 41341,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 41384,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 41413,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 41420,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 41447,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 41457,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 41516,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 41612,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 41627,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 41692,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 41741,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 41743,
+			"player": 0,
+			"loc": [ -1032,
+				-1519,
+				407
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 41775,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 41819,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 41831,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 41845,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 41857,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 41871,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 41907,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 41922,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 41945,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 41977,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 41993,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 42022,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 42034,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 42061,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 42061,
+			"player": 0,
+			"loc": [ -3829,
+				1486,
+				114
+			]
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 42084,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 42094,
+			"player": 0
+		},
+		{
+			"name": "start_load",
+			"stamp": 42095,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 42113,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 42136,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 42159,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "join",
+			"stamp": 42177,
+			"username": "SoloRiotz",
+			"id": 1,
+			"net_id": "|000270b2ce88483da17fdfcbaaaf4016"
+		},
+		{
+			"name": "finish_load",
+			"stamp": 42177,
+			"player": 0
+		},
+		{
+			"name": "set_team",
+			"stamp": 42178,
+			"player": 1,
+			"team": 1
+		},
+		{
+			"name": "spawn",
+			"stamp": 42178,
+			"player": 1
+		},
+		{
+			"name": "set_loadout",
+			"stamp": 42178,
+			"player": 1,
+			"items": [
+				"AstroRifle",
+				"Spark"
+			]
+		},
+		{
+			"name": "equip",
+			"stamp": 42179,
+			"player": 1,
+			"item": "AstroRifle"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 42219,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 42230,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 42247,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 42258,
+			"player": 0,
+			"loc": [ -1612,
+				2082,
+				585
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 42260,
+			"player": 1,
+			"damager": "Projectile:9:10",
+			"origin": [ 3833,
+				672,
+				353
+			],
+			"dir": [ 4,
+				136
+			]
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 42270,
+			"player": 0
+		},
+		{
+			"name": "fire",
+			"stamp": 42271,
+			"player": 1,
+			"damager": "Projectile:8:13",
+			"origin": [ 3787,
+				618,
+				352
+			],
+			"dir": [ 7,
+				136
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 42281,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 42286,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 42329,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 42349,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 42363,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 42399,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 42418,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 42502,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 42578,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 42590,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 42612,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "dash",
+			"stamp": 42638,
+			"player": 1,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 42679,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 42693,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 42707,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 42710,
+			"player": 0,
+			"loc": [ -3385,
+				2130,
+				171
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 42741,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 42751,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 42767,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 42809,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 42823,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 42830,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 42830,
+			"player": 0,
+			"loc": [ -1885,
+				487,
+				398
+			]
+		},
+		{
+			"name": "dash",
+			"stamp": 42844,
+			"player": 1,
+			"dir": "X"
+		},
+		{
+			"name": "dash",
+			"stamp": 42859,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "start_load",
+			"stamp": 42864,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 42915,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 42924,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 42946,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 42990,
+			"player": 1,
+			"dir": "X"
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 43000,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 43004,
+			"player": 0,
+			"loc": [ 968,
+				634,
+				432
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 43034,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 43061,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 43093,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 43109,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 43116,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 43160,
+			"player": 1,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 43161,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 43174,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 43210,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 43238,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 43261,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 43272,
+			"player": 0,
+			"loc": [ -1885,
+				-145,
+				382
+			]
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 43286,
+			"player": 0
+		},
+		{
+			"name": "start_load",
+			"stamp": 43295,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 43299,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 43325,
+			"player": 1,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 43348,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 43377,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 43390,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 43406,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 43425,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "dash",
+			"stamp": 43439,
+			"player": 1,
+			"dir": "X"
+		},
+		{
+			"name": "fire",
+			"stamp": 43502,
+			"player": 1,
+			"damager": "Projectile:8:14",
+			"origin": [ -477,
+				1114,
+				29
+			],
+			"dir": [ 62,
+				81
+			]
+		},
+		{
+			"name": "damage",
+			"stamp": 43507,
+			"target": 0,
+			"damage": 2,
+			"prev_health": 10,
+			"instigator": 1,
+			"causer": "Projectile:8:14",
+			"node": "NTProjectileSystem:2:0",
+			"item": "AstroRifle"
+		},
+		{
+			"name": "fire",
+			"stamp": 43511,
+			"player": 1,
+			"damager": "Projectile:16:10",
+			"origin": [ -483,
+				1167,
+				113
+			],
+			"dir": [ 54,
+				66
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 43520,
+			"player": 1,
+			"damager": "Projectile:13:17",
+			"origin": [ -495,
+				1177,
+				210
+			],
+			"dir": [ 62,
+				93
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 43529,
+			"player": 1,
+			"damager": "Projectile:21:2",
+			"origin": [ -519,
+				1139,
+				300
+			],
+			"dir": [ 55,
+				87
+			]
+		},
+		{
+			"name": "damage",
+			"stamp": 43531,
+			"target": 0,
+			"damage": 2,
+			"prev_health": 8,
+			"instigator": 1,
+			"causer": "Projectile:21:2",
+			"node": "NTProjectileSystem:2:0",
+			"item": "AstroRifle"
+		},
+		{
+			"name": "fire",
+			"stamp": 43538,
+			"player": 1,
+			"damager": "Projectile:9:12",
+			"origin": [ -546,
+				1085,
+				380
+			],
+			"dir": [ 40,
+				84
+			]
+		},
+		{
+			"name": "damage",
+			"stamp": 43540,
+			"target": 0,
+			"damage": 2,
+			"prev_health": 6,
+			"instigator": 1,
+			"causer": "Projectile:9:12",
+			"node": "NTProjectileSystem:2:0",
+			"item": "AstroRifle"
+		},
+		{
+			"name": "fire",
+			"stamp": 43547,
+			"player": 1,
+			"damager": "Projectile:8:15",
+			"origin": [ -570,
+				1033,
+				442
+			],
+			"dir": [ 40,
+				89
+			]
+		},
+		{
+			"name": "damage",
+			"stamp": 43549,
+			"target": 0,
+			"damage": 2,
+			"prev_health": 4,
+			"instigator": 1,
+			"causer": "Projectile:8:15",
+			"node": "NTProjectileSystem:2:0",
+			"item": "AstroRifle"
+		},
+		{
+			"name": "fire",
+			"stamp": 43556,
+			"player": 1,
+			"damager": "Projectile:16:11",
+			"origin": [ -577,
+				1041,
+				450
+			],
+			"dir": [ 38,
+				86
+			]
+		},
+		{
+			"name": "damage",
+			"stamp": 43559,
+			"target": 0,
+			"damage": 2,
+			"prev_health": 2,
+			"instigator": 1,
+			"causer": "Projectile:16:11",
+			"node": "NTProjectileSystem:2:0",
+			"item": "AstroRifle"
+		},
+		{
+			"name": "elim",
+			"stamp": 43559,
+			"target": 0,
+			"instigator": 1,
+			"causer": "Projectile:16:11",
+			"node": "NTProjectileSystem:2:0",
+			"item": "AstroRifle"
+		},
+		{
+			"name": "fire",
+			"stamp": 43565,
+			"player": 1,
+			"damager": "Projectile:13:18",
+			"origin": [ -563,
+				1091,
+				410
+			],
+			"dir": [ 43,
+				93
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 43574,
+			"player": 1,
+			"damager": "Projectile:21:3",
+			"origin": [ -538,
+				1167,
+				347
+			],
+			"dir": [ 56,
+				100
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 43583,
+			"player": 1,
+			"damager": "Projectile:9:13",
+			"origin": [ -510,
+				1248,
+				288
+			],
+			"dir": [ 53,
+				110
+			]
+		},
+		{
+			"name": "start_reload",
+			"stamp": 43593,
+			"player": 1
+		},
+		{
+			"name": "finish_reload",
+			"stamp": 43693,
+			"player": 1
+		},
+		{
+			"name": "dash",
+			"stamp": 43700,
+			"player": 1,
+			"dir": "X"
+		},
+		{
+			"name": "spawn",
+			"stamp": 43759,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 43760,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "dash",
+			"stamp": 43818,
+			"player": 1,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 43862,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 43869,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 43892,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 43905,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 43919,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 43935,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 43965,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 43977,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 43990,
+			"player": 1,
+			"dir": "X"
+		},
+		{
+			"name": "dash",
+			"stamp": 44016,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 44044,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 44066,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 44106,
+			"player": 1,
+			"dir": "X"
+		},
+		{
+			"name": "dash",
+			"stamp": 44216,
+			"player": 1,
+			"dir": "X"
+		},
+		{
+			"name": "dash",
+			"stamp": 44348,
+			"player": 1,
+			"dir": "X"
+		},
+		{
+			"name": "dash",
+			"stamp": 44479,
+			"player": 1,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 44547,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 44560,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 44631,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 44667,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 44676,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 44682,
+			"player": 1,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 44710,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 44718,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 44742,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 44747,
+			"player": 0,
+			"loc": [ -1930,
+				1064,
+				154
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 44776,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 44797,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "dash",
+			"stamp": 44807,
+			"player": 1,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 44830,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 44843,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 44858,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 44879,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 44888,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 44907,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 44939,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 44944,
+			"player": 1,
+			"dir": "X"
+		},
+		{
+			"name": "push_off",
+			"stamp": 44964,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 44981,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 45010,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 45022,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 45054,
+			"player": 1,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 45056,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 45070,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 45101,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 45108,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 45127,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 45135,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 45177,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 45264,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 45272,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 45287,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 45290,
+			"player": 0,
+			"loc": [ -2600,
+				2138,
+				202
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 45321,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 45332,
+			"player": 1,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 45362,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 45379,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 45390,
+			"player": 0,
+			"item": "Teleport"
+		},
+		{
+			"name": "throw",
+			"stamp": 45402,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 45417,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "fire",
+			"stamp": 45462,
+			"player": 1,
+			"damager": "Projectile:21:4",
+			"origin": [ -1667,
+				-659,
+				617
+			],
+			"dir": [ 0,
+				93
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 45471,
+			"player": 1,
+			"damager": "Projectile:22:0",
+			"origin": [ -1647,
+				-721,
+				614
+			],
+			"dir": [ -1,
+				91
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 45480,
+			"player": 1,
+			"damager": "Projectile:9:14",
+			"origin": [ -1575,
+				-763,
+				611
+			],
+			"dir": [ -3,
+				95
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 45489,
+			"player": 1,
+			"damager": "Projectile:15:13",
+			"origin": [ -1475,
+				-786,
+				610
+			],
+			"dir": [ -5,
+				103
+			]
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 45489,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 45492,
+			"player": 0,
+			"loc": [ -1862,
+				881,
+				424
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 45498,
+			"player": 1,
+			"damager": "Projectile:16:13",
+			"origin": [ -1372,
+				-787,
+				609
+			],
+			"dir": [ -6,
+				122
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 45507,
+			"player": 1,
+			"damager": "Projectile:13:20",
+			"origin": [ -1274,
+				-796,
+				610
+			],
+			"dir": [ -8,
+				116
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 45516,
+			"player": 1,
+			"damager": "Projectile:21:5",
+			"origin": [ -1236,
+				-848,
+				617
+			],
+			"dir": [ -7,
+				128
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 45523,
+			"player": 0
+		},
+		{
+			"name": "fire",
+			"stamp": 45541,
+			"player": 1,
+			"damager": "Projectile:22:1",
+			"origin": [ -1232,
+				-1105,
+				672
+			],
+			"dir": [ -32,
+				152
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 45550,
+			"player": 1,
+			"damager": "Projectile:23:1",
+			"origin": [ -1227,
+				-1201,
+				711
+			],
+			"dir": [ -49,
+				175
+			]
+		},
+		{
+			"name": "damage",
+			"stamp": 45554,
+			"target": 0,
+			"damage": 2,
+			"prev_health": 10,
+			"instigator": 1,
+			"causer": "Projectile:23:1",
+			"node": "NTProjectileSystem:2:0",
+			"item": "AstroRifle"
+		},
+		{
+			"name": "equip",
+			"stamp": 45557,
+			"player": 0,
+			"item": "Teleport"
+		},
+		{
+			"name": "fire",
+			"stamp": 45559,
+			"player": 1,
+			"damager": "Projectile:9:15",
+			"origin": [ -1216,
+				-1286,
+				769
+			],
+			"dir": [ -48,
+				-168
+			]
+		},
+		{
+			"name": "damage",
+			"stamp": 45562,
+			"target": 0,
+			"damage": 2,
+			"prev_health": 8,
+			"instigator": 1,
+			"causer": "Projectile:9:15",
+			"node": "NTProjectileSystem:2:0",
+			"item": "AstroRifle"
+		},
+		{
+			"name": "fire",
+			"stamp": 45568,
+			"player": 1,
+			"damager": "Projectile:15:14",
+			"origin": [ -1202,
+				-1360,
+				839
+			],
+			"dir": [ -50,
+				-160
+			]
+		},
+		{
+			"name": "teleport",
+			"stamp": 45570,
+			"player": 0
+		},
+		{
+			"name": "fire",
+			"stamp": 45577,
+			"player": 1,
+			"damager": "Projectile:16:14",
+			"origin": [ -1192,
+				-1389,
+				870
+			],
+			"dir": [ -57,
+				-149
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 45586,
+			"player": 1,
+			"damager": "Projectile:13:21",
+			"origin": [ -1180,
+				-1356,
+				845
+			],
+			"dir": [ -61,
+				-146
+			]
+		},
+		{
+			"name": "equip",
+			"stamp": 45586,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "start_load",
+			"stamp": 45608,
+			"player": 0
+		},
+		{
+			"name": "fire",
+			"stamp": 45631,
+			"player": 1,
+			"damager": "Projectile:21:6",
+			"origin": [ -1396,
+				-1065,
+				541
+			],
+			"dir": [ -20,
+				-139
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 45640,
+			"player": 1,
+			"damager": "Projectile:22:2",
+			"origin": [ -1452,
+				-992,
+				493
+			],
+			"dir": [ -2,
+				-151
+			]
+		},
+		{
+			"name": "start_reload",
+			"stamp": 45649,
+			"player": 1
+		},
+		{
+			"name": "dash",
+			"stamp": 45656,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "cancel_reload",
+			"stamp": 45671,
+			"player": 1
+		},
+		{
+			"name": "equip",
+			"stamp": 45671,
+			"player": 1,
+			"item": "Spark"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 45674,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 45686,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 45690,
+			"player": 0
+		},
+		{
+			"name": "fire",
+			"stamp": 45692,
+			"player": 1,
+			"damager": "Projectile:23:2",
+			"origin": [ -1460,
+				-940,
+				460
+			],
+			"dir": [ -31,
+				129
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 45709,
+			"player": 0,
+			"damager": "Rocket:9:16",
+			"origin": [ -1610,
+				-323,
+				262
+			],
+			"dir": [ 15,
+				-79
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 45724,
+			"player": 1,
+			"damager": "Projectile:15:15",
+			"origin": [ -1603,
+				-1114,
+				465
+			],
+			"dir": [ -5,
+				84
+			]
+		},
+		{
+			"name": "damage",
+			"stamp": 45731,
+			"target": 0,
+			"damage": 4,
+			"prev_health": 6,
+			"instigator": 1,
+			"causer": "Projectile:15:15",
+			"node": "NTProjectileSystem:2:0",
+			"item": "Spark"
+		},
+		{
+			"name": "start_load",
+			"stamp": 45743,
+			"player": 0
+		},
+		{
+			"name": "fire",
+			"stamp": 45761,
+			"player": 1,
+			"damager": "Projectile:16:15",
+			"origin": [ -1415,
+				-793,
+				510
+			],
+			"dir": [ 8,
+				70
+			]
+		},
+		{
+			"name": "explode",
+			"stamp": 45768,
+			"player": 0,
+			"loc": [ -1021,
+				-1415,
+				1185
+			]
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 45787,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 45794,
+			"player": 1,
+			"dir": "X"
+		},
+		{
+			"name": "push_off",
+			"stamp": 45809,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 45825,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 45847,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "fire",
+			"stamp": 45849,
+			"player": 1,
+			"damager": "Projectile:13:22",
+			"origin": [ -1180,
+				354,
+				508
+			],
+			"dir": [ 28,
+				71
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 45897,
+			"player": 0,
+			"damager": "Rocket:21:7",
+			"origin": [ -1214,
+				77,
+				666
+			],
+			"dir": [ -6,
+				104
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 45899,
+			"player": 1,
+			"damager": "Projectile:22:3",
+			"origin": [ -1410,
+				807,
+				517
+			],
+			"dir": [ 6,
+				-78
+			]
+		},
+		{
+			"name": "damage",
+			"stamp": 45904,
+			"target": 0,
+			"damage": 4,
+			"prev_health": 2,
+			"instigator": 1,
+			"causer": "Projectile:22:3",
+			"node": "NTProjectileSystem:2:0",
+			"item": "Spark"
+		},
+		{
+			"name": "elim",
+			"stamp": 45904,
+			"target": 0,
+			"instigator": 1,
+			"causer": "Projectile:22:3",
+			"node": "NTProjectileSystem:2:0",
+			"item": "Spark"
+		},
+		{
+			"name": "start_reload",
+			"stamp": 45942,
+			"player": 1
+		},
+		{
+			"name": "explode",
+			"stamp": 45949,
+			"player": 0,
+			"loc": [ -1816,
+				2335,
+				403
+			]
+		},
+		{
+			"name": "finish_reload",
+			"stamp": 46016,
+			"player": 1
+		},
+		{
+			"name": "dash",
+			"stamp": 46046,
+			"player": 1,
+			"dir": "X"
+		},
+		{
+			"name": "spawn",
+			"stamp": 46104,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 46105,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "equip",
+			"stamp": 46121,
+			"player": 1,
+			"item": "AstroRifle"
+		},
+		{
+			"name": "start_reload",
+			"stamp": 46142,
+			"player": 1
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 46170,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 46180,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 46214,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 46229,
+			"player": 0
+		},
+		{
+			"name": "finish_reload",
+			"stamp": 46242,
+			"player": 1
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 46248,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 46250,
+			"player": 1,
+			"dir": "X"
+		},
+		{
+			"name": "push_off",
+			"stamp": 46276,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 46285,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 46334,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 46357,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 46360,
+			"player": 1,
+			"dir": "-Y"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 46378,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 46391,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 46415,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 46515,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 46531,
+			"player": 0
+		},
+		{
+			"name": "fire",
+			"stamp": 46572,
+			"player": 0,
+			"damager": "Rocket:5:12",
+			"origin": [ 2244,
+				91,
+				505
+			],
+			"dir": [ -1,
+				-121
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 46576,
+			"player": 1,
+			"damager": "Projectile:6:13",
+			"origin": [ 2006,
+				-288,
+				447
+			],
+			"dir": [ 7,
+				64
+			]
+		},
+		{
+			"name": "damage",
+			"stamp": 46578,
+			"target": 0,
+			"damage": 2,
+			"prev_health": 10,
+			"instigator": 1,
+			"causer": "Projectile:6:13",
+			"node": "NTProjectileSystem:2:0",
+			"item": "AstroRifle"
+		},
+		{
+			"name": "damage",
+			"stamp": 46582,
+			"target": 1,
+			"damage": 10,
+			"prev_health": 10,
+			"instigator": 0,
+			"causer": "Rocket:5:12",
+			"node": "NTRocketComponent:22:18",
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "elim",
+			"stamp": 46582,
+			"target": 1,
+			"instigator": 0,
+			"causer": "Rocket:5:12",
+			"node": "NTRocketComponent:22:18",
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "explode",
+			"stamp": 46582,
+			"player": 0,
+			"loc": [ 2027,
+				-255,
+				496
+			]
+		},
+		{
+			"name": "dash",
+			"stamp": 46597,
+			"player": 0,
+			"dir": "Y"
+		},
+		{
+			"name": "start_load",
+			"stamp": 46606,
+			"player": 0
+		},
+		{
+			"name": "leave",
+			"stamp": 46667,
+			"id": 1
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 46671,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 46674,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 46688,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 46710,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 46822,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 46831,
+			"player": 0
+		},
+		{
+			"name": "leave",
+			"stamp": 46896,
+			"id": 0
+		}
+	]
+}

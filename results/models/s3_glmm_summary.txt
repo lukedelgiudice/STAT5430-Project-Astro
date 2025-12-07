@@ -1,0 +1,28 @@
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                    win   No. Observations:                22108
+Model:                            GLM   Df Residuals:                 18364.57
+Model Family:                Binomial   Df Model:                           12
+Link Function:                  Logit   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -11915.
+Date:                Sat, 06 Dec 2025   Deviance:                       23829.
+Time:                        20:13:05   Pearson chi2:                 1.84e+04
+No. Iterations:                     4   Pseudo R-squ. (CS):            0.05612
+Covariance Type:            nonrobust                                         
+==================================================================================================
+                                     coef    std err          z      P>|z|      [0.025      0.975]
+--------------------------------------------------------------------------------------------------
+Intercept                         -1.9909      0.081    -24.628      0.000      -2.149      -1.832
+C(item_used)[T.Boomerang]         -0.3157      0.100     -3.167      0.002      -0.511      -0.120
+C(item_used)[T.Net]               -0.3411      0.119     -2.857      0.004      -0.575      -0.107
+C(item_used)[T.Nightshade]         0.0388      0.064      0.610      0.542      -0.086       0.164
+C(item_used)[T.QuadCannon]        -0.4767      0.092     -5.187      0.000      -0.657      -0.297
+C(item_used)[T.Ripper]            -0.3227      0.065     -4.936      0.000      -0.451      -0.195
+C(item_used)[T.RocketLauncher]     0.1850      0.071      2.594      0.009       0.045       0.325
+C(item_used)[T.Sledge]            -0.2095      0.060     -3.507      0.000      -0.327      -0.092
+C(item_used)[T.Spark]              0.2154      0.055      3.947      0.000       0.108       0.322
+C(item_used)[T.Sword]             -0.0695      0.067     -1.039      0.299      -0.201       0.062
+C(item_used)[T.ThrowingStar]       0.3178      0.065      4.871      0.000       0.190       0.446
+start_dist_scaled                 -0.0582      0.016     -3.698      0.000      -0.089      -0.027
+start_health                       0.2075      0.007     29.596      0.000       0.194       0.221
+==================================================================================================

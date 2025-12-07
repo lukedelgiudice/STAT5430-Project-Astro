@@ -1,0 +1,1055 @@
+{
+	"GameId": "946642349783788177",
+	"StartUnixTimestamp": "1763258780",
+	"GameMode": "King",
+	"DurationSec": 1450,
+	"Map": "Stadium",
+	"AverageKillDistance": 3164.4,
+	"TotalEliminations": 2,
+	"TotalSpawns": 4,
+	"misc":
+	{
+		"AverageSwordStabKillDistance": 0,
+		"NumSwordStabKills": 0,
+		"ShurikenDropShotKills": 0,
+		"ShurikenRegularShotKills": 2
+	},
+	"DeviceProfiles": [
+		{
+			"Username": "mome",
+			"PlayerId": null,
+			"CPU":
+			{
+				"Name": "AMD Ryzen 5 5600X 6-Core Processor",
+				"Cores": 6,
+				"Threads": 12,
+				"MemorySizeMB": 32647
+			},
+			"Platform": "Windows",
+			"OSVersion": "10.0.19045.1.768.64bit",
+			"GPU":
+			{
+				"Name": "NVIDIA GeForce RTX 3060",
+				"VendorId": 4318,
+				"DeviceId": 9476,
+				"DriverVersion": "580.97",
+				"VideoMemoryMB": 12115
+			},
+			"RHIName": "D3D12",
+			"RHIFeatureLevel": 4,
+			"Settings":
+			{
+				"ResX": 1920,
+				"ResY": 1080,
+				"WindowMode": "WindowedFullscreen",
+				"VSync": false,
+				"FrameRateLimit": 144,
+				"ScreenPercentage": 100,
+				"GraphicsQuality": 4,
+				"AntiAliasingMethod": "TAA",
+				"ColorBlindness": false
+			}
+		},
+		{
+			"Username": "Pherrret",
+			"PlayerId": null,
+			"CPU":
+			{
+				"Name": "AMD Ryzen 7 5700X 8-Core Processor",
+				"Cores": 8,
+				"Threads": 16,
+				"MemorySizeMB": 32694
+			},
+			"Platform": "Windows",
+			"OSVersion": "10.0.26200.1.768.64bit",
+			"GPU":
+			{
+				"Name": "NVIDIA GeForce RTX 3060 Ti",
+				"VendorId": 4318,
+				"DeviceId": 9353,
+				"DriverVersion": "576.52",
+				"VideoMemoryMB": 8024
+			},
+			"RHIName": "D3D12",
+			"RHIFeatureLevel": 4,
+			"Settings":
+			{
+				"ResX": 1920,
+				"ResY": 1080,
+				"WindowMode": "WindowedFullscreen",
+				"VSync": false,
+				"FrameRateLimit": 0,
+				"ScreenPercentage": 100,
+				"GraphicsQuality": 2,
+				"AntiAliasingMethod": "TAA",
+				"ColorBlindness": false
+			}
+		}
+	],
+	"Players":
+	{
+		"mome":
+		{
+			"Kills": 2,
+			"Deaths": 0,
+			"AvgSpeed": 405.3,
+			"AvgMovingSpeed": 560.6,
+			"PlayTimeSec": 104.4,
+			"FloatTimeSec": 101.38,
+			"MagnetTimeSec": 3.03,
+			"Dashes": 0,
+			"DirDashes": 0,
+			"Kicks": 11
+		},
+		"Pherrret":
+		{
+			"Kills": 0,
+			"Deaths": 2,
+			"AvgSpeed": 426.1,
+			"AvgMovingSpeed": 449.3,
+			"PlayTimeSec": 53.78,
+			"FloatTimeSec": 42.05,
+			"MagnetTimeSec": 0,
+			"Dashes": 1,
+			"DirDashes": 0,
+			"Kicks": 0
+		}
+	},
+	"Items":
+	{
+		"AstroRifle":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Boomerang":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Grapple":
+		{
+			"PlayTime": 42.05,
+			"Kills": 0,
+			"Deaths": 1,
+			"InvKills": 0,
+			"InvDeaths": 2,
+			"AvgKillDist": 0
+		},
+		"Net":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Nightshade":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"QuadCannon":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Ripper":
+		{
+			"PlayTime": 104.4,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 2,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"RocketLauncher":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Sledge":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Spark":
+		{
+			"PlayTime": 42.05,
+			"Kills": 0,
+			"Deaths": 1,
+			"InvKills": 0,
+			"InvDeaths": 2,
+			"AvgKillDist": 0
+		},
+		"Sword":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Teleport":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"ThrowingStar":
+		{
+			"PlayTime": 104.4,
+			"Kills": 2,
+			"Deaths": 0,
+			"InvKills": 2,
+			"InvDeaths": 0,
+			"AvgKillDist": 3164.4
+		}
+	},
+	"events": [
+		{
+			"name": "join",
+			"stamp": 0,
+			"username": "mome",
+			"id": 0,
+			"net_id": "|0002ccb1ad2842be906840274b902fe2"
+		},
+		{
+			"name": "set_loadout",
+			"stamp": 0,
+			"player": 0,
+			"items": [
+				"ThrowingStar",
+				"Ripper"
+			]
+		},
+		{
+			"name": "set_team",
+			"stamp": 1,
+			"player": 0,
+			"team": 0
+		},
+		{
+			"name": "spawn",
+			"stamp": 1,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 2,
+			"player": 0,
+			"item": "ThrowingStar"
+		},
+		{
+			"name": "kick",
+			"stamp": 133,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 161,
+			"player": 0,
+			"item": "ThrowingStar"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 172,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 179,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 202,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 211,
+			"player": 0
+		},
+		{
+			"name": "leave",
+			"stamp": 304,
+			"id": 0
+		},
+		{
+			"name": "join",
+			"stamp": 566,
+			"username": "mome",
+			"id": 0,
+			"net_id": "|0002ccb1ad2842be906840274b902fe2"
+		},
+		{
+			"name": "set_team",
+			"stamp": 567,
+			"player": 0,
+			"team": 0
+		},
+		{
+			"name": "spawn",
+			"stamp": 567,
+			"player": 0
+		},
+		{
+			"name": "set_loadout",
+			"stamp": 567,
+			"player": 0,
+			"items": [
+				"ThrowingStar",
+				"Ripper"
+			]
+		},
+		{
+			"name": "equip",
+			"stamp": 568,
+			"player": 0,
+			"item": "ThrowingStar"
+		},
+		{
+			"name": "join",
+			"stamp": 571,
+			"username": "Pherrret",
+			"id": 1,
+			"net_id": "|00024c56b581467ba6676b8c93d9bc27"
+		},
+		{
+			"name": "set_team",
+			"stamp": 572,
+			"player": 1,
+			"team": 1
+		},
+		{
+			"name": "spawn",
+			"stamp": 572,
+			"player": 1
+		},
+		{
+			"name": "set_loadout",
+			"stamp": 572,
+			"player": 1,
+			"items": [
+				"Spark",
+				"Grapple"
+			]
+		},
+		{
+			"name": "equip",
+			"stamp": 573,
+			"player": 1,
+			"item": "Spark"
+		},
+		{
+			"name": "kick",
+			"stamp": 613,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 641,
+			"player": 0,
+			"item": "ThrowingStar"
+		},
+		{
+			"name": "equip",
+			"stamp": 655,
+			"player": 1,
+			"item": "Grapple"
+		},
+		{
+			"name": "cast",
+			"stamp": 687,
+			"player": 1
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 689,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 699,
+			"player": 0
+		},
+		{
+			"name": "cast",
+			"stamp": 776,
+			"player": 1
+		},
+		{
+			"name": "kick",
+			"stamp": 826,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 854,
+			"player": 0,
+			"item": "ThrowingStar"
+		},
+		{
+			"name": "cast",
+			"stamp": 886,
+			"player": 1
+		},
+		{
+			"name": "equip",
+			"stamp": 971,
+			"player": 1,
+			"item": "Spark"
+		},
+		{
+			"name": "dash",
+			"stamp": 1032,
+			"player": 1,
+			"dir": "X"
+		},
+		{
+			"name": "kick",
+			"stamp": 1094,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 1122,
+			"player": 0,
+			"item": "ThrowingStar"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1312,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1334,
+			"player": 0
+		},
+		{
+			"name": "throw",
+			"stamp": 1403,
+			"player": 0
+		},
+		{
+			"name": "fire",
+			"stamp": 1405,
+			"player": 0,
+			"damager": "Throwing Star:21:0",
+			"origin": [ 3908,
+				981,
+				-1755
+			],
+			"dir": [ 74,
+				-133
+			]
+		},
+		{
+			"name": "throw",
+			"stamp": 1431,
+			"player": 0
+		},
+		{
+			"name": "fire",
+			"stamp": 1433,
+			"player": 0,
+			"damager": "Throwing Star:22:0",
+			"origin": [ 3919,
+				1051,
+				-1743
+			],
+			"dir": [ 79,
+				-112
+			]
+		},
+		{
+			"name": "damage",
+			"stamp": 1462,
+			"target": 1,
+			"damage": 5,
+			"prev_health": 10,
+			"instigator": 0,
+			"causer": "Throwing Star:22:0",
+			"node": "NTProjectileSystem:2:0",
+			"item": "ThrowingStar"
+		},
+		{
+			"name": "kingchange",
+			"stamp": 1463,
+			"newking": 0
+		},
+		{
+			"name": "throw",
+			"stamp": 1478,
+			"player": 0
+		},
+		{
+			"name": "fire",
+			"stamp": 1480,
+			"player": 0,
+			"damager": "Throwing Star:8:1",
+			"origin": [ 3891,
+				964,
+				-1728
+			],
+			"dir": [ 78,
+				-124
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 1482,
+			"player": 1,
+			"damager": "Projectile:9:1",
+			"origin": [ 3808,
+				674,
+				-82
+			],
+			"dir": [ -68,
+				77
+			]
+		},
+		{
+			"name": "damage",
+			"stamp": 1509,
+			"target": 1,
+			"damage": 5,
+			"prev_health": 5,
+			"instigator": 0,
+			"causer": "Throwing Star:8:1",
+			"node": "NTProjectileSystem:2:0",
+			"item": "ThrowingStar"
+		},
+		{
+			"name": "elim",
+			"stamp": 1509,
+			"target": 1,
+			"instigator": 0,
+			"causer": "Throwing Star:8:1",
+			"node": "NTProjectileSystem:2:0",
+			"item": "ThrowingStar"
+		},
+		{
+			"name": "kick",
+			"stamp": 1545,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 1573,
+			"player": 0,
+			"item": "ThrowingStar"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1601,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1606,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1659,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1668,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1742,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1748,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 1786,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 1819,
+			"player": 0,
+			"item": "ThrowingStar"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1857,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1864,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1907,
+			"player": 0
+		},
+		{
+			"name": "spawn",
+			"stamp": 1909,
+			"player": 1
+		},
+		{
+			"name": "equip",
+			"stamp": 1910,
+			"player": 1,
+			"item": "Spark"
+		},
+		{
+			"name": "push_off",
+			"stamp": 1918,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1964,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 2017,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 2045,
+			"player": 0,
+			"item": "ThrowingStar"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2115,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2132,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 2205,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 2233,
+			"player": 0,
+			"item": "ThrowingStar"
+		},
+		{
+			"name": "throw",
+			"stamp": 2389,
+			"player": 0
+		},
+		{
+			"name": "fire",
+			"stamp": 2391,
+			"player": 0,
+			"damager": "Throwing Star:20:1",
+			"origin": [ -1408,
+				3374,
+				-514
+			],
+			"dir": [ 6,
+				-20
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 2409,
+			"player": 1,
+			"damager": "Projectile:16:1",
+			"origin": [ 3754,
+				1391,
+				-295
+			],
+			"dir": [ -1,
+				160
+			]
+		},
+		{
+			"name": "throw",
+			"stamp": 2423,
+			"player": 0
+		},
+		{
+			"name": "fire",
+			"stamp": 2425,
+			"player": 0,
+			"damager": "Throwing Star:23:0",
+			"origin": [ -1388,
+				3230,
+				-753
+			],
+			"dir": [ 0,
+				-21
+			]
+		},
+		{
+			"name": "throw",
+			"stamp": 2451,
+			"player": 0
+		},
+		{
+			"name": "fire",
+			"stamp": 2453,
+			"player": 0,
+			"damager": "Throwing Star:24:0",
+			"origin": [ -1359,
+				3250,
+				-701
+			],
+			"dir": [ -1,
+				-19
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 2458,
+			"player": 1,
+			"damager": "Projectile:17:1",
+			"origin": [ 3401,
+				1521,
+				-718
+			],
+			"dir": [ 3,
+				159
+			]
+		},
+		{
+			"name": "throw",
+			"stamp": 2479,
+			"player": 0
+		},
+		{
+			"name": "fire",
+			"stamp": 2481,
+			"player": 0,
+			"damager": "Throwing Star:25:0",
+			"origin": [ -1327,
+				3306,
+				-587
+			],
+			"dir": [ -9,
+				-20
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 2481,
+			"player": 1,
+			"damager": "Projectile:26:0",
+			"origin": [ 3254,
+				1575,
+				-913
+			],
+			"dir": [ 5,
+				160
+			]
+		},
+		{
+			"name": "throw",
+			"stamp": 2513,
+			"player": 0
+		},
+		{
+			"name": "fire",
+			"stamp": 2515,
+			"player": 0,
+			"damager": "Throwing Star:18:1",
+			"origin": [ -1349,
+				3282,
+				-633
+			],
+			"dir": [ 2,
+				-22
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 2525,
+			"player": 1,
+			"damager": "Projectile:8:2",
+			"origin": [ 3539,
+				1462,
+				-739
+			],
+			"dir": [ 0,
+				161
+			]
+		},
+		{
+			"name": "throw",
+			"stamp": 2541,
+			"player": 0
+		},
+		{
+			"name": "damage",
+			"stamp": 2541,
+			"target": 1,
+			"damage": 5,
+			"prev_health": 10,
+			"instigator": 0,
+			"causer": "Throwing Star:24:0",
+			"node": "NTProjectileSystem:2:0",
+			"item": "ThrowingStar"
+		},
+		{
+			"name": "fire",
+			"stamp": 2543,
+			"player": 0,
+			"damager": "Throwing Star:15:1",
+			"origin": [ -1392,
+				3136,
+				-913
+			],
+			"dir": [ 8,
+				-20
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 2554,
+			"player": 1,
+			"damager": "Projectile:16:2",
+			"origin": [ 3830,
+				1352,
+				-538
+			],
+			"dir": [ -8,
+				161
+			]
+		},
+		{
+			"name": "throw",
+			"stamp": 2572,
+			"player": 0
+		},
+		{
+			"name": "fire",
+			"stamp": 2574,
+			"player": 0,
+			"damager": "Throwing Star:20:2",
+			"origin": [ -1310,
+				2940,
+				-1181
+			],
+			"dir": [ 13,
+				-19
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 2576,
+			"player": 1,
+			"damager": "Projectile:23:1",
+			"origin": [ 3811,
+				1357,
+				-289
+			],
+			"dir": [ -12,
+				161
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 2593,
+			"player": 1,
+			"damager": "Projectile:26:1",
+			"origin": [ 3685,
+				1400,
+				-147
+			],
+			"dir": [ -13,
+				161
+			]
+		},
+		{
+			"name": "throw",
+			"stamp": 2607,
+			"player": 0
+		},
+		{
+			"name": "fire",
+			"stamp": 2609,
+			"player": 0,
+			"damager": "Throwing Star:17:2",
+			"origin": [ -1087,
+				2704,
+				-1410
+			],
+			"dir": [ 21,
+				-16
+			]
+		},
+		{
+			"name": "throw",
+			"stamp": 2643,
+			"player": 0
+		},
+		{
+			"name": "fire",
+			"stamp": 2645,
+			"player": 0,
+			"damager": "Throwing Star:24:1",
+			"origin": [ -783,
+				2468,
+				-1556
+			],
+			"dir": [ 27,
+				-14
+			]
+		},
+		{
+			"name": "equip",
+			"stamp": 2645,
+			"player": 1,
+			"item": "Grapple"
+		},
+		{
+			"name": "damage",
+			"stamp": 2654,
+			"target": 1,
+			"damage": 5,
+			"prev_health": 5,
+			"instigator": 0,
+			"causer": "Throwing Star:20:2",
+			"node": "NTProjectileSystem:2:0",
+			"item": "ThrowingStar"
+		},
+		{
+			"name": "elim",
+			"stamp": 2654,
+			"target": 1,
+			"instigator": 0,
+			"causer": "Throwing Star:20:2",
+			"node": "NTProjectileSystem:2:0",
+			"item": "ThrowingStar"
+		},
+		{
+			"name": "kick",
+			"stamp": 2711,
+			"player": 0
+		},
+		{
+			"name": "leave",
+			"stamp": 2723,
+			"id": 1
+		},
+		{
+			"name": "equip",
+			"stamp": 2739,
+			"player": 0,
+			"item": "ThrowingStar"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2836,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2867,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2877,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 2908,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 2936,
+			"player": 0,
+			"item": "ThrowingStar"
+		},
+		{
+			"name": "toss",
+			"stamp": 2976,
+			"player": 0
+		},
+		{
+			"name": "fire",
+			"stamp": 2978,
+			"player": 0,
+			"damager": "Throwing Star:8:3",
+			"origin": [ -435,
+				1832,
+				-374
+			],
+			"dir": [ 16,
+				-40
+			]
+		},
+		{
+			"name": "trigger",
+			"stamp": 3004,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 4402,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 4430,
+			"player": 0,
+			"item": "ThrowingStar"
+		},
+		{
+			"name": "leave",
+			"stamp": 4440,
+			"id": 0
+		}
+	]
+}

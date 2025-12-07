@@ -1,0 +1,578 @@
+{
+	"GameId": "946625086975898248",
+	"StartUnixTimestamp": "1763226626",
+	"GameMode": "Free For All",
+	"DurationSec": 66,
+	"Map": "Stadium",
+	"AverageKillDistance": 0,
+	"TotalEliminations": 0,
+	"TotalSpawns": 1,
+	"misc":
+	{
+		"AverageSwordStabKillDistance": 0,
+		"NumSwordStabKills": 0,
+		"ShurikenDropShotKills": 0,
+		"ShurikenRegularShotKills": 0
+	},
+	"DeviceProfiles": [
+		{
+			"Username": "Raikiwi",
+			"PlayerId": null,
+			"CPU":
+			{
+				"Name": "AMD Ryzen 5 7600X 6-Core Processor",
+				"Cores": 6,
+				"Threads": 12,
+				"MemorySizeMB": 31892
+			},
+			"Platform": "Windows",
+			"OSVersion": "10.0.19045.1.768.64bit",
+			"GPU":
+			{
+				"Name": "NVIDIA GeForce RTX 4060 Ti",
+				"VendorId": 4318,
+				"DeviceId": 10243,
+				"DriverVersion": "572.83",
+				"VideoMemoryMB": 7949
+			},
+			"RHIName": "D3D12",
+			"RHIFeatureLevel": 4,
+			"Settings":
+			{
+				"ResX": 2560,
+				"ResY": 1440,
+				"WindowMode": "WindowedFullscreen",
+				"VSync": false,
+				"FrameRateLimit": 0,
+				"ScreenPercentage": 100,
+				"GraphicsQuality": 2,
+				"AntiAliasingMethod": "TAA",
+				"ColorBlindness": false
+			}
+		}
+	],
+	"Players":
+	{
+		"Raikiwi":
+		{
+			"Kills": 0,
+			"Deaths": 0,
+			"AvgSpeed": 564.7,
+			"AvgMovingSpeed": 553.6,
+			"PlayTimeSec": 61.63,
+			"FloatTimeSec": 50.95,
+			"MagnetTimeSec": 10.68,
+			"Dashes": 1,
+			"DirDashes": 1,
+			"Kicks": 0
+		}
+	},
+	"Items":
+	{
+		"AstroRifle":
+		{
+			"PlayTime": 61.63,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Boomerang":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Grapple":
+		{
+			"PlayTime": 61.63,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Net":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Nightshade":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"QuadCannon":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Ripper":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"RocketLauncher":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Sledge":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Spark":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Sword":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Teleport":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"ThrowingStar":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		}
+	},
+	"events": [
+		{
+			"name": "join",
+			"stamp": 0,
+			"username": "Raikiwi",
+			"id": 0,
+			"net_id": "|0002c6769e8d4ef68445d8e4e31d7737"
+		},
+		{
+			"name": "set_loadout",
+			"stamp": 0,
+			"player": 0,
+			"items": [
+				"AstroRifle",
+				"Grapple"
+			]
+		},
+		{
+			"name": "set_team",
+			"stamp": 1,
+			"player": 0,
+			"team": 0
+		},
+		{
+			"name": "spawn",
+			"stamp": 1,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 2,
+			"player": 0,
+			"item": "AstroRifle"
+		},
+		{
+			"name": "dash",
+			"stamp": 94,
+			"player": 0,
+			"dir": "-Y"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 266,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 271,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 316,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 335,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 392,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 417,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 450,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 474,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 537,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 563,
+			"player": 0
+		},
+		{
+			"name": "fire",
+			"stamp": 637,
+			"player": 0,
+			"damager": "Projectile:12:0",
+			"origin": [ 3937,
+				-949,
+				573
+			],
+			"dir": [ 0,
+				11
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 646,
+			"player": 0,
+			"damager": "Projectile:13:0",
+			"origin": [ 3981,
+				-999,
+				573
+			],
+			"dir": [ -13,
+				38
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 655,
+			"player": 0,
+			"damager": "Projectile:14:0",
+			"origin": [ 4043,
+				-1026,
+				573
+			],
+			"dir": [ -11,
+				43
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 664,
+			"player": 0,
+			"damager": "Projectile:15:0",
+			"origin": [ 4110,
+				-1034,
+				573
+			],
+			"dir": [ -11,
+				49
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 697,
+			"player": 0,
+			"damager": "Projectile:16:0",
+			"origin": [ 4352,
+				-978,
+				573
+			],
+			"dir": [ -8,
+				94
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 709,
+			"player": 0,
+			"damager": "Projectile:12:1",
+			"origin": [ 4440,
+				-958,
+				573
+			],
+			"dir": [ -7,
+				101
+			]
+		},
+		{
+			"name": "push_off",
+			"stamp": 744,
+			"player": 0
+		},
+		{
+			"name": "start_reload",
+			"stamp": 774,
+			"player": 0
+		},
+		{
+			"name": "finish_reload",
+			"stamp": 874,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 899,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 956,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1028,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 1074,
+			"player": 0,
+			"item": "Grapple"
+		},
+		{
+			"name": "cast",
+			"stamp": 1097,
+			"player": 0
+		},
+		{
+			"name": "cast",
+			"stamp": 1149,
+			"player": 0
+		},
+		{
+			"name": "cast",
+			"stamp": 1218,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 1285,
+			"player": 0,
+			"item": "AstroRifle"
+		},
+		{
+			"name": "fire",
+			"stamp": 1306,
+			"player": 0,
+			"damager": "Projectile:13:1",
+			"origin": [ 2588,
+				1156,
+				792
+			],
+			"dir": [ 29,
+				-169
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 1331,
+			"player": 0,
+			"damager": "Projectile:17:0",
+			"origin": [ 2117,
+				1028,
+				967
+			],
+			"dir": [ 4,
+				-159
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 1340,
+			"player": 0,
+			"damager": "Projectile:18:0",
+			"origin": [ 1948,
+				974,
+				1009
+			],
+			"dir": [ -9,
+				-159
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 1353,
+			"player": 0,
+			"damager": "Projectile:14:1",
+			"origin": [ 1713,
+				879,
+				1042
+			],
+			"dir": [ -10,
+				-156
+			]
+		},
+		{
+			"name": "equip",
+			"stamp": 1362,
+			"player": 0,
+			"item": "Grapple"
+		},
+		{
+			"name": "cast",
+			"stamp": 1374,
+			"player": 0
+		},
+		{
+			"name": "cast",
+			"stamp": 1444,
+			"player": 0
+		},
+		{
+			"name": "cast",
+			"stamp": 1545,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 1730,
+			"player": 0,
+			"item": "AstroRifle"
+		},
+		{
+			"name": "fire",
+			"stamp": 1751,
+			"player": 0,
+			"damager": "Projectile:15:1",
+			"origin": [ 3444,
+				21,
+				1245
+			],
+			"dir": [ 17,
+				-101
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 1769,
+			"player": 0,
+			"damager": "Projectile:16:1",
+			"origin": [ 3476,
+				-53,
+				1287
+			],
+			"dir": [ 10,
+				-98
+			]
+		},
+		{
+			"name": "start_reload",
+			"stamp": 1778,
+			"player": 0
+		},
+		{
+			"name": "finish_reload",
+			"stamp": 1878,
+			"player": 0
+		},
+		{
+			"name": "fire",
+			"stamp": 1891,
+			"player": 0,
+			"damager": "Projectile:12:2",
+			"origin": [ 3968,
+				-1304,
+				1403
+			],
+			"dir": [ -12,
+				-33
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 1900,
+			"player": 0,
+			"damager": "Projectile:13:2",
+			"origin": [ 3996,
+				-1401,
+				1379
+			],
+			"dir": [ -15,
+				-33
+			]
+		},
+		{
+			"name": "equip",
+			"stamp": 1909,
+			"player": 0,
+			"item": "Grapple"
+		},
+		{
+			"name": "cast",
+			"stamp": 1911,
+			"player": 0
+		},
+		{
+			"name": "cast",
+			"stamp": 2268,
+			"player": 0
+		},
+		{
+			"name": "leave",
+			"stamp": 2466,
+			"id": 0
+		}
+	]
+}

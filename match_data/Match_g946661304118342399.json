@@ -1,0 +1,239 @@
+{
+	"GameId": "946661304118342399",
+	"StartUnixTimestamp": "1763294086",
+	"GameMode": "Free For All",
+	"DurationSec": 58,
+	"Map": "Observatory",
+	"AverageKillDistance": 0,
+	"TotalEliminations": 0,
+	"TotalSpawns": 1,
+	"misc":
+	{
+		"AverageSwordStabKillDistance": 0,
+		"NumSwordStabKills": 0,
+		"ShurikenDropShotKills": 0,
+		"ShurikenRegularShotKills": 0
+	},
+	"DeviceProfiles": [
+		{
+			"Username": "Morpheus",
+			"PlayerId": null,
+			"CPU":
+			{
+				"Name": "12th Gen Intel(R) Core(TM) i5-12600K",
+				"Cores": 10,
+				"Threads": 16,
+				"MemorySizeMB": 16157
+			},
+			"Platform": "Windows",
+			"OSVersion": "10.0.26100.1.256.64bit",
+			"GPU":
+			{
+				"Name": "NVIDIA GeForce RTX 3060",
+				"VendorId": 4318,
+				"DeviceId": 9351,
+				"DriverVersion": "581.80",
+				"VideoMemoryMB": 12110
+			},
+			"RHIName": "D3D12",
+			"RHIFeatureLevel": 4,
+			"Settings":
+			{
+				"ResX": 1920,
+				"ResY": 1080,
+				"WindowMode": "WindowedFullscreen",
+				"VSync": true,
+				"FrameRateLimit": 120,
+				"ScreenPercentage": 100,
+				"GraphicsQuality": 1,
+				"AntiAliasingMethod": "TAA",
+				"ColorBlindness": false
+			}
+		}
+	],
+	"Players":
+	{
+		"Morpheus":
+		{
+			"Kills": 0,
+			"Deaths": 0,
+			"AvgSpeed": 0,
+			"AvgMovingSpeed": 0,
+			"PlayTimeSec": 53.1,
+			"FloatTimeSec": 53.1,
+			"MagnetTimeSec": 0,
+			"Dashes": 0,
+			"DirDashes": 0,
+			"Kicks": 0
+		}
+	},
+	"Items":
+	{
+		"AstroRifle":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Boomerang":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Grapple":
+		{
+			"PlayTime": 53.1,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Net":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Nightshade":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"QuadCannon":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Ripper":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"RocketLauncher":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Sledge":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Spark":
+		{
+			"PlayTime": 53.1,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Sword":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Teleport":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"ThrowingStar":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		}
+	},
+	"events": [
+		{
+			"name": "join",
+			"stamp": 0,
+			"username": "Morpheus",
+			"id": 0,
+			"net_id": "|000258e6cf124e7989ad455478fc62df"
+		},
+		{
+			"name": "set_loadout",
+			"stamp": 0,
+			"player": 0,
+			"items": [
+				"Spark",
+				"Grapple"
+			]
+		},
+		{
+			"name": "set_team",
+			"stamp": 1,
+			"player": 0,
+			"team": 0
+		},
+		{
+			"name": "spawn",
+			"stamp": 1,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 2,
+			"player": 0,
+			"item": "Spark"
+		},
+		{
+			"name": "set_loadout",
+			"stamp": 1968,
+			"player": 0,
+			"items": [
+				"Nightshade",
+				"Sledge"
+			]
+		},
+		{
+			"name": "leave",
+			"stamp": 2125,
+			"id": 0
+		}
+	]
+}

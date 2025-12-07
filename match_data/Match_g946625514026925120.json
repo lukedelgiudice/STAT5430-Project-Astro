@@ -1,0 +1,533 @@
+{
+	"GameId": "946625514026925120",
+	"StartUnixTimestamp": "1763227421",
+	"GameMode": "Free For All",
+	"DurationSec": 55,
+	"Map": "Stadium",
+	"AverageKillDistance": 0,
+	"TotalEliminations": 0,
+	"TotalSpawns": 2,
+	"misc":
+	{
+		"AverageSwordStabKillDistance": 0,
+		"NumSwordStabKills": 0,
+		"ShurikenDropShotKills": 0,
+		"ShurikenRegularShotKills": 0
+	},
+	"DeviceProfiles": [
+		{
+			"Username": "aCalicoDragon",
+			"PlayerId": null,
+			"CPU":
+			{
+				"Name": "AMD Ryzen 5 5600G with Radeon Graphics",
+				"Cores": 6,
+				"Threads": 12,
+				"MemorySizeMB": 16177
+			},
+			"Platform": "Windows",
+			"OSVersion": "10.0.19045.1.256.64bit",
+			"GPU":
+			{
+				"Name": "AMD Radeon RX 6600",
+				"VendorId": 4098,
+				"DeviceId": 29695,
+				"DriverVersion": "AMD Software: Adrenalin Edition 25.11.1",
+				"VideoMemoryMB": 8147
+			},
+			"RHIName": "D3D12",
+			"RHIFeatureLevel": 4,
+			"Settings":
+			{
+				"ResX": 1920,
+				"ResY": 1080,
+				"WindowMode": "WindowedFullscreen",
+				"VSync": false,
+				"FrameRateLimit": 120,
+				"ScreenPercentage": 100,
+				"GraphicsQuality": 0,
+				"AntiAliasingMethod": "FXAA",
+				"ColorBlindness": false
+			}
+		},
+		{
+			"Username": "_KWade",
+			"PlayerId": null,
+			"CPU":
+			{
+				"Name": "12th Gen Intel(R) Core(TM) i7-12700H",
+				"Cores": 14,
+				"Threads": 20,
+				"MemorySizeMB": 32492
+			},
+			"Platform": "Windows",
+			"OSVersion": "10.0.26100.1.768.64bit",
+			"GPU":
+			{
+				"Name": "NVIDIA GeForce RTX 3070 Laptop GPU",
+				"VendorId": 4318,
+				"DeviceId": 9437,
+				"DriverVersion": "556.12",
+				"VideoMemoryMB": 8020
+			},
+			"RHIName": "D3D12",
+			"RHIFeatureLevel": 4,
+			"Settings":
+			{
+				"ResX": 1707,
+				"ResY": 1067,
+				"WindowMode": "WindowedFullscreen",
+				"VSync": false,
+				"FrameRateLimit": 60,
+				"ScreenPercentage": 100,
+				"GraphicsQuality": 2,
+				"AntiAliasingMethod": "TAA",
+				"ColorBlindness": false
+			}
+		}
+	],
+	"Players":
+	{
+		"aCalicoDragon":
+		{
+			"Kills": 0,
+			"Deaths": 0,
+			"AvgSpeed": 418.5,
+			"AvgMovingSpeed": 419.7,
+			"PlayTimeSec": 50.83,
+			"FloatTimeSec": 36.78,
+			"MagnetTimeSec": 14.05,
+			"Dashes": 1,
+			"DirDashes": 1,
+			"Kicks": 0
+		},
+		"_KWade":
+		{
+			"Kills": 0,
+			"Deaths": 0,
+			"AvgSpeed": 0,
+			"AvgMovingSpeed": 0,
+			"PlayTimeSec": 2.5,
+			"FloatTimeSec": 2.5,
+			"MagnetTimeSec": 0,
+			"Dashes": 0,
+			"DirDashes": 0,
+			"Kicks": 0
+		}
+	},
+	"Items":
+	{
+		"AstroRifle":
+		{
+			"PlayTime": 2.5,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Boomerang":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Grapple":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Net":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Nightshade":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"QuadCannon":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Ripper":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"RocketLauncher":
+		{
+			"PlayTime": 50.83,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Sledge":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Spark":
+		{
+			"PlayTime": 2.5,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Sword":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Teleport":
+		{
+			"PlayTime": 50.83,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"ThrowingStar":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		}
+	},
+	"events": [
+		{
+			"name": "join",
+			"stamp": 0,
+			"username": "aCalicoDragon",
+			"id": 0,
+			"net_id": "|00022e95f8e6400a8af3c0eb2844ba27"
+		},
+		{
+			"name": "set_loadout",
+			"stamp": 0,
+			"player": 0,
+			"items": [
+				"RocketLauncher",
+				"Teleport"
+			]
+		},
+		{
+			"name": "set_team",
+			"stamp": 1,
+			"player": 0,
+			"team": 0
+		},
+		{
+			"name": "spawn",
+			"stamp": 1,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 2,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 88,
+			"player": 0
+		},
+		{
+			"name": "start_load",
+			"stamp": 122,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 138,
+			"player": 0,
+			"loc": [ 4940,
+				585,
+				2877
+			]
+		},
+		{
+			"name": "finish_load",
+			"stamp": 204,
+			"player": 0
+		},
+		{
+			"name": "fire",
+			"stamp": 222,
+			"player": 0,
+			"damager": "Rocket:13:0",
+			"origin": [ 4295,
+				-177,
+				-63
+			],
+			"dir": [ 74,
+				40
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 256,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 315,
+			"player": 0,
+			"loc": [ 4920,
+				348,
+				2885
+			]
+		},
+		{
+			"name": "finish_load",
+			"stamp": 338,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 371,
+			"player": 0,
+			"dir": "Y"
+		},
+		{
+			"name": "equip",
+			"stamp": 439,
+			"player": 0,
+			"item": "Teleport"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 525,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 588,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 595,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 600,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 610,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 651,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 710,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 755,
+			"player": 0
+		},
+		{
+			"name": "throw",
+			"stamp": 808,
+			"player": 0
+		},
+		{
+			"name": "teleport",
+			"stamp": 907,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1006,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1334,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1446,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1466,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1575,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1599,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1656,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1672,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 1731,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "join",
+			"stamp": 1845,
+			"username": "_KWade",
+			"id": 1,
+			"net_id": "|000203d5f4c6459aaf16f4dcc155b162"
+		},
+		{
+			"name": "set_team",
+			"stamp": 1846,
+			"player": 1,
+			"team": 1
+		},
+		{
+			"name": "spawn",
+			"stamp": 1846,
+			"player": 1
+		},
+		{
+			"name": "set_loadout",
+			"stamp": 1846,
+			"player": 1,
+			"items": [
+				"AstroRifle",
+				"Spark"
+			]
+		},
+		{
+			"name": "equip",
+			"stamp": 1847,
+			"player": 1,
+			"item": "AstroRifle"
+		},
+		{
+			"name": "fire",
+			"stamp": 1851,
+			"player": 0,
+			"damager": "Rocket:20:0",
+			"origin": [ 8094,
+				-294,
+				1013
+			],
+			"dir": [ -21,
+				8
+			]
+		},
+		{
+			"name": "damage",
+			"stamp": 1864,
+			"target": 0,
+			"damage": 5,
+			"prev_health": 10,
+			"instigator": 0,
+			"causer": "Rocket:20:0",
+			"node": "NTRocketComponent:34:0",
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "explode",
+			"stamp": 1864,
+			"player": 0,
+			"loc": [ 8485,
+				-235,
+				861
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 1885,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1944,
+			"player": 0
+		},
+		{
+			"name": "leave",
+			"stamp": 1946,
+			"id": 1
+		},
+		{
+			"name": "finish_load",
+			"stamp": 1967,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1982,
+			"player": 0
+		},
+		{
+			"name": "leave",
+			"stamp": 2034,
+			"id": 0
+		}
+	]
+}

@@ -1,0 +1,543 @@
+{
+	"GameId": "946642921019132581",
+	"StartUnixTimestamp": "1763259844",
+	"GameMode": "Free For All",
+	"DurationSec": 108,
+	"Map": "Observatory",
+	"AverageKillDistance": 0,
+	"TotalEliminations": 0,
+	"TotalSpawns": 1,
+	"misc":
+	{
+		"AverageSwordStabKillDistance": 0,
+		"NumSwordStabKills": 0,
+		"ShurikenDropShotKills": 0,
+		"ShurikenRegularShotKills": 0
+	},
+	"DeviceProfiles": [
+		{
+			"Username": "Koala",
+			"PlayerId": null,
+			"CPU":
+			{
+				"Name": "AMD Ryzen 5 3600X 6-Core Processor",
+				"Cores": 6,
+				"Threads": 12,
+				"MemorySizeMB": 16298
+			},
+			"Platform": "Windows",
+			"OSVersion": "10.0.26200.1.256.64bit",
+			"GPU":
+			{
+				"Name": "NVIDIA GeForce GTX 1050 Ti",
+				"VendorId": 4318,
+				"DeviceId": 7298,
+				"DriverVersion": "581.29",
+				"VideoMemoryMB": 4004
+			},
+			"RHIName": "D3D12",
+			"RHIFeatureLevel": 4,
+			"Settings":
+			{
+				"ResX": 1920,
+				"ResY": 1080,
+				"WindowMode": "WindowedFullscreen",
+				"VSync": false,
+				"FrameRateLimit": 0,
+				"ScreenPercentage": 100,
+				"GraphicsQuality": 2,
+				"AntiAliasingMethod": "TAA",
+				"ColorBlindness": false
+			}
+		}
+	],
+	"Players":
+	{
+		"Koala":
+		{
+			"Kills": 0,
+			"Deaths": 0,
+			"AvgSpeed": 445.2,
+			"AvgMovingSpeed": 447.2,
+			"PlayTimeSec": 103.68,
+			"FloatTimeSec": 88.03,
+			"MagnetTimeSec": 15.65,
+			"Dashes": 2,
+			"DirDashes": 1,
+			"Kicks": 0
+		}
+	},
+	"Items":
+	{
+		"AstroRifle":
+		{
+			"PlayTime": 103.68,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Boomerang":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Grapple":
+		{
+			"PlayTime": 103.68,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Net":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Nightshade":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"QuadCannon":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Ripper":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"RocketLauncher":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Sledge":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Spark":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Sword":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Teleport":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"ThrowingStar":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		}
+	},
+	"events": [
+		{
+			"name": "join",
+			"stamp": 0,
+			"username": "Koala",
+			"id": 0,
+			"net_id": "|00022b532c76453ba78d4e351fbbc60b"
+		},
+		{
+			"name": "set_loadout",
+			"stamp": 0,
+			"player": 0,
+			"items": [
+				"Grapple",
+				"AstroRifle"
+			]
+		},
+		{
+			"name": "set_team",
+			"stamp": 1,
+			"player": 0,
+			"team": 0
+		},
+		{
+			"name": "spawn",
+			"stamp": 1,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 2,
+			"player": 0,
+			"item": "Grapple"
+		},
+		{
+			"name": "cast",
+			"stamp": 110,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 159,
+			"player": 0
+		},
+		{
+			"name": "cast",
+			"stamp": 210,
+			"player": 0
+		},
+		{
+			"name": "cast",
+			"stamp": 365,
+			"player": 0
+		},
+		{
+			"name": "cast",
+			"stamp": 396,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 461,
+			"player": 0,
+			"item": "AstroRifle"
+		},
+		{
+			"name": "equip",
+			"stamp": 496,
+			"player": 0,
+			"item": "Grapple"
+		},
+		{
+			"name": "cast",
+			"stamp": 515,
+			"player": 0
+		},
+		{
+			"name": "cast",
+			"stamp": 575,
+			"player": 0
+		},
+		{
+			"name": "cast",
+			"stamp": 684,
+			"player": 0
+		},
+		{
+			"name": "cast",
+			"stamp": 720,
+			"player": 0
+		},
+		{
+			"name": "cast",
+			"stamp": 797,
+			"player": 0
+		},
+		{
+			"name": "cast",
+			"stamp": 869,
+			"player": 0
+		},
+		{
+			"name": "cast",
+			"stamp": 922,
+			"player": 0
+		},
+		{
+			"name": "cast",
+			"stamp": 949,
+			"player": 0
+		},
+		{
+			"name": "cast",
+			"stamp": 973,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 1010,
+			"player": 0,
+			"item": "AstroRifle"
+		},
+		{
+			"name": "fire",
+			"stamp": 1031,
+			"player": 0,
+			"damager": "Projectile:10:0",
+			"origin": [ -2307,
+				-2549,
+				-50
+			],
+			"dir": [ 2,
+				15
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 1040,
+			"player": 0,
+			"damager": "Projectile:11:0",
+			"origin": [ -2406,
+				-2580,
+				-57
+			],
+			"dir": [ 5,
+				14
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 1049,
+			"player": 0,
+			"damager": "Projectile:12:0",
+			"origin": [ -2506,
+				-2608,
+				-65
+			],
+			"dir": [ 5,
+				14
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 1058,
+			"player": 0,
+			"damager": "Projectile:13:0",
+			"origin": [ -2607,
+				-2616,
+				-66
+			],
+			"dir": [ 2,
+				19
+			]
+		},
+		{
+			"name": "start_reload",
+			"stamp": 1068,
+			"player": 0
+		},
+		{
+			"name": "finish_reload",
+			"stamp": 1168,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 1182,
+			"player": 0,
+			"item": "Grapple"
+		},
+		{
+			"name": "cast",
+			"stamp": 1313,
+			"player": 0
+		},
+		{
+			"name": "cast",
+			"stamp": 1419,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1514,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1587,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1744,
+			"player": 0
+		},
+		{
+			"name": "cast",
+			"stamp": 1780,
+			"player": 0
+		},
+		{
+			"name": "cast",
+			"stamp": 1865,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1897,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1909,
+			"player": 0
+		},
+		{
+			"name": "cast",
+			"stamp": 1911,
+			"player": 0
+		},
+		{
+			"name": "cast",
+			"stamp": 1995,
+			"player": 0
+		},
+		{
+			"name": "cast",
+			"stamp": 2201,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2313,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2602,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2618,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2659,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2681,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2697,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2802,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2840,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2874,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2899,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2908,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2953,
+			"player": 0
+		},
+		{
+			"name": "cast",
+			"stamp": 3038,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 3182,
+			"player": 0,
+			"dir": "-X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 3309,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 3320,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 3351,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "cast",
+			"stamp": 3407,
+			"player": 0
+		},
+		{
+			"name": "cast",
+			"stamp": 3495,
+			"player": 0
+		},
+		{
+			"name": "leave",
+			"stamp": 4148,
+			"id": 0
+		}
+	]
+}

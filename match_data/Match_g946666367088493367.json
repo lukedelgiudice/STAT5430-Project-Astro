@@ -1,0 +1,519 @@
+{
+	"GameId": "946666367088493367",
+	"StartUnixTimestamp": "1763303516",
+	"GameMode": "Free For All",
+	"DurationSec": 36,
+	"Map": "Observatory",
+	"AverageKillDistance": 0,
+	"TotalEliminations": 0,
+	"TotalSpawns": 1,
+	"misc":
+	{
+		"AverageSwordStabKillDistance": 0,
+		"NumSwordStabKills": 0,
+		"ShurikenDropShotKills": 0,
+		"ShurikenRegularShotKills": 0
+	},
+	"DeviceProfiles": [
+		{
+			"Username": "withradish",
+			"PlayerId": null,
+			"CPU":
+			{
+				"Name": "AMD Ryzen 5 7500F 6-Core Processor",
+				"Cores": 6,
+				"Threads": 12,
+				"MemorySizeMB": 32471
+			},
+			"Platform": "Windows",
+			"OSVersion": "10.0.26100.1.768.64bit",
+			"GPU":
+			{
+				"Name": "AMD Radeon RX 6800",
+				"VendorId": 4098,
+				"DeviceId": 29631,
+				"DriverVersion": "AMD Software: Adrenalin Edition 25.11.1",
+				"VideoMemoryMB": 16337
+			},
+			"RHIName": "D3D12",
+			"RHIFeatureLevel": 4,
+			"Settings":
+			{
+				"ResX": 2560,
+				"ResY": 1440,
+				"WindowMode": "Fullscreen",
+				"VSync": false,
+				"FrameRateLimit": 0,
+				"ScreenPercentage": 100,
+				"GraphicsQuality": 0,
+				"AntiAliasingMethod": "TAA",
+				"ColorBlindness": false
+			}
+		}
+	],
+	"Players":
+	{
+		"withradish":
+		{
+			"Kills": 0,
+			"Deaths": 0,
+			"AvgSpeed": 742,
+			"AvgMovingSpeed": 701.4,
+			"PlayTimeSec": 31.05,
+			"FloatTimeSec": 24.73,
+			"MagnetTimeSec": 6.32,
+			"Dashes": 4,
+			"DirDashes": 0,
+			"Kicks": 0
+		}
+	},
+	"Items":
+	{
+		"AstroRifle":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Boomerang":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Grapple":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Net":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Nightshade":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"QuadCannon":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Ripper":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"RocketLauncher":
+		{
+			"PlayTime": 31.05,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Sledge":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Spark":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Sword":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Teleport":
+		{
+			"PlayTime": 31.05,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"ThrowingStar":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		}
+	},
+	"events": [
+		{
+			"name": "join",
+			"stamp": 0,
+			"username": "withradish",
+			"id": 0,
+			"net_id": "|000221f1542f4db289d2cc1e615a688d"
+		},
+		{
+			"name": "set_loadout",
+			"stamp": 0,
+			"player": 0,
+			"items": [
+				"RocketLauncher",
+				"Teleport"
+			]
+		},
+		{
+			"name": "set_team",
+			"stamp": 1,
+			"player": 0,
+			"team": 0
+		},
+		{
+			"name": "spawn",
+			"stamp": 1,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 2,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 108,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 117,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 129,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 143,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 179,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 185,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 189,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 198,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 206,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 219,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 226,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 240,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 265,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 278,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 296,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 322,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 370,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 407,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 419,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 476,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 484,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 499,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 505,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 517,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 542,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 559,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 584,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 589,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 595,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 605,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 617,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 651,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 684,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 715,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 717,
+			"player": 0,
+			"loc": [ -5006,
+				2967,
+				485
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 749,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 757,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 775,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 790,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 807,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 818,
+			"player": 0
+		},
+		{
+			"name": "finish_load",
+			"stamp": 831,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 841,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 852,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 907,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 962,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 969,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 1008,
+			"player": 0,
+			"item": "Teleport"
+		},
+		{
+			"name": "throw",
+			"stamp": 1018,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 1038,
+			"player": 0,
+			"item": "RocketLauncher"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1102,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1114,
+			"player": 0
+		},
+		{
+			"name": "impulsive_fire",
+			"stamp": 1129,
+			"player": 0
+		},
+		{
+			"name": "explode",
+			"stamp": 1139,
+			"player": 0,
+			"loc": [ 3830,
+				1985,
+				-79
+			]
+		},
+		{
+			"name": "start_load",
+			"stamp": 1163,
+			"player": 0
+		},
+		{
+			"name": "leave",
+			"stamp": 1243,
+			"id": 0
+		}
+	]
+}

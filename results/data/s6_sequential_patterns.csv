@@ -1,0 +1,21 @@
+Pattern,Count,Frequency,Outcome
+surface_lock -> push_off,8927,2.024263038548753,Kill
+push_off -> surface_lock,4932,1.1183673469387756,Kill
+push_off -> dash,1612,0.3655328798185941,Kill
+dash -> surface_lock,1470,0.3333333333333333,Kill
+kick -> surface_lock,626,0.1419501133786848,Kill
+push_off -> kick,582,0.13197278911564625,Kill
+dash -> kick,547,0.12403628117913833,Kill
+dash -> dash,484,0.10975056689342404,Kill
+surface_lock -> surface_lock,474,0.10748299319727891,Kill
+kick -> kick,167,0.037868480725623585,Kill
+surface_lock -> push_off,7643,1.6958065231861548,Death
+push_off -> surface_lock,4016,0.8910583536720657,Death
+push_off -> dash,1740,0.38606611936986907,Death
+dash -> surface_lock,1496,0.33192811182604837,Death
+dash -> dash,688,0.15265143110716664,Death
+dash -> kick,624,0.13845129798091857,Death
+kick -> surface_lock,605,0.13423563345906367,Death
+push_off -> kick,536,0.11892611493232749,Death
+surface_lock -> surface_lock,525,0.11648546705125361,Death
+surface_lock -> kick,189,0.041934768138451296,Death

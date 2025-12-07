@@ -1,0 +1,281 @@
+{
+	"GameId": "946671522614938943",
+	"StartUnixTimestamp": "1763313119",
+	"GameMode": "Free For All",
+	"DurationSec": 65,
+	"Map": "Outpost",
+	"AverageKillDistance": 0,
+	"TotalEliminations": 0,
+	"TotalSpawns": 1,
+	"misc":
+	{
+		"AverageSwordStabKillDistance": 0,
+		"NumSwordStabKills": 0,
+		"ShurikenDropShotKills": 0,
+		"ShurikenRegularShotKills": 0
+	},
+	"DeviceProfiles": [
+		{
+			"Username": "blackalister",
+			"PlayerId": null,
+			"CPU":
+			{
+				"Name": "AMD Ryzen 7 7800X3D 8-Core Processor",
+				"Cores": 8,
+				"Threads": 16,
+				"MemorySizeMB": 31936
+			},
+			"Platform": "Windows",
+			"OSVersion": "10.0.26200.1.256.64bit",
+			"GPU":
+			{
+				"Name": "AMD Radeon RX 7900 GRE",
+				"VendorId": 4098,
+				"DeviceId": 29772,
+				"DriverVersion": "AMD Software: Adrenalin Edition 25.10.2",
+				"VideoMemoryMB": 16368
+			},
+			"RHIName": "D3D12",
+			"RHIFeatureLevel": 4,
+			"Settings":
+			{
+				"ResX": 2560,
+				"ResY": 1440,
+				"WindowMode": "WindowedFullscreen",
+				"VSync": false,
+				"FrameRateLimit": 0,
+				"ScreenPercentage": 100,
+				"GraphicsQuality": 2,
+				"AntiAliasingMethod": "TAA",
+				"ColorBlindness": false
+			}
+		}
+	],
+	"Players":
+	{
+		"blackalister":
+		{
+			"Kills": 0,
+			"Deaths": 0,
+			"AvgSpeed": 304,
+			"AvgMovingSpeed": 459.5,
+			"PlayTimeSec": 60.1,
+			"FloatTimeSec": 60.1,
+			"MagnetTimeSec": 0,
+			"Dashes": 1,
+			"DirDashes": 0,
+			"Kicks": 0
+		}
+	},
+	"Items":
+	{
+		"AstroRifle":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Boomerang":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Grapple":
+		{
+			"PlayTime": 60.1,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Net":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Nightshade":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"QuadCannon":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Ripper":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"RocketLauncher":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Sledge":
+		{
+			"PlayTime": 60.1,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Spark":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Sword":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Teleport":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"ThrowingStar":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		}
+	},
+	"events": [
+		{
+			"name": "join",
+			"stamp": 0,
+			"username": "blackalister",
+			"id": 0,
+			"net_id": "|0002e6922f284cfbb167901c900c8dce"
+		},
+		{
+			"name": "set_loadout",
+			"stamp": 0,
+			"player": 0,
+			"items": [
+				"Sledge",
+				"Grapple"
+			]
+		},
+		{
+			"name": "set_team",
+			"stamp": 1,
+			"player": 0,
+			"team": 0
+		},
+		{
+			"name": "spawn",
+			"stamp": 1,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 2,
+			"player": 0,
+			"item": "Sledge"
+		},
+		{
+			"name": "set_loadout",
+			"stamp": 783,
+			"player": 0,
+			"items": [
+				"Sledge",
+				"Grapple"
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 856,
+			"player": 0,
+			"damager": "Sledge:16:0",
+			"origin": [ 201,
+				-2429,
+				192
+			],
+			"dir": [ 77,
+				157
+			]
+		},
+		{
+			"name": "start_reload",
+			"stamp": 880,
+			"player": 0
+		},
+		{
+			"name": "finish_reload",
+			"stamp": 909,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 909,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "fire",
+			"stamp": 2337,
+			"player": 0,
+			"damager": "Sledge:16:0",
+			"origin": [ -1446,
+				-915,
+				2909
+			],
+			"dir": [ -13,
+				-13
+			]
+		},
+		{
+			"name": "leave",
+			"stamp": 2405,
+			"id": 0
+		}
+	]
+}

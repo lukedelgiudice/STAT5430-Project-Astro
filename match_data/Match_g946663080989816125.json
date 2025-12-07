@@ -1,0 +1,1471 @@
+{
+	"GameId": "946663080989816125",
+	"StartUnixTimestamp": "1763297395",
+	"GameMode": "Free For All",
+	"DurationSec": 361,
+	"Map": "Outpost",
+	"AverageKillDistance": 0,
+	"TotalEliminations": 1,
+	"TotalSpawns": 2,
+	"misc":
+	{
+		"AverageSwordStabKillDistance": 0,
+		"NumSwordStabKills": 0,
+		"ShurikenDropShotKills": 0,
+		"ShurikenRegularShotKills": 0
+	},
+	"DeviceProfiles": [
+		{
+			"Username": "aCalicoDragon",
+			"PlayerId": null,
+			"CPU":
+			{
+				"Name": "AMD Ryzen 5 5600G with Radeon Graphics",
+				"Cores": 6,
+				"Threads": 12,
+				"MemorySizeMB": 16177
+			},
+			"Platform": "Windows",
+			"OSVersion": "10.0.19045.1.256.64bit",
+			"GPU":
+			{
+				"Name": "AMD Radeon RX 6600",
+				"VendorId": 4098,
+				"DeviceId": 29695,
+				"DriverVersion": "AMD Software: Adrenalin Edition 25.11.1",
+				"VideoMemoryMB": 8147
+			},
+			"RHIName": "D3D12",
+			"RHIFeatureLevel": 4,
+			"Settings":
+			{
+				"ResX": 1920,
+				"ResY": 1080,
+				"WindowMode": "WindowedFullscreen",
+				"VSync": false,
+				"FrameRateLimit": 120,
+				"ScreenPercentage": 100,
+				"GraphicsQuality": 0,
+				"AntiAliasingMethod": "FXAA",
+				"ColorBlindness": false
+			}
+		}
+	],
+	"Players":
+	{
+		"aCalicoDragon":
+		{
+			"Kills": 0,
+			"Deaths": 1,
+			"AvgSpeed": 479.3,
+			"AvgMovingSpeed": 558.3,
+			"PlayTimeSec": 356.92,
+			"FloatTimeSec": 281.92,
+			"MagnetTimeSec": 70,
+			"Dashes": 15,
+			"DirDashes": 0,
+			"Kicks": 6
+		}
+	},
+	"Items":
+	{
+		"AstroRifle":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Boomerang":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Grapple":
+		{
+			"PlayTime": 250.95,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Net":
+		{
+			"PlayTime": 100.97,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 1,
+			"AvgKillDist": 0
+		},
+		"Nightshade":
+		{
+			"PlayTime": 250.95,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"QuadCannon":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Ripper":
+		{
+			"PlayTime": 100.97,
+			"Kills": 0,
+			"Deaths": 1,
+			"InvKills": 0,
+			"InvDeaths": 1,
+			"AvgKillDist": 0
+		},
+		"RocketLauncher":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Sledge":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Spark":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Sword":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"Teleport":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		},
+		"ThrowingStar":
+		{
+			"PlayTime": 0,
+			"Kills": 0,
+			"Deaths": 0,
+			"InvKills": 0,
+			"InvDeaths": 0,
+			"AvgKillDist": 0
+		}
+	},
+	"events": [
+		{
+			"name": "join",
+			"stamp": 0,
+			"username": "aCalicoDragon",
+			"id": 0,
+			"net_id": "|00022e95f8e6400a8af3c0eb2844ba27"
+		},
+		{
+			"name": "set_loadout",
+			"stamp": 0,
+			"player": 0,
+			"items": [
+				"Ripper",
+				"Net"
+			]
+		},
+		{
+			"name": "set_team",
+			"stamp": 1,
+			"player": 0,
+			"team": 0
+		},
+		{
+			"name": "spawn",
+			"stamp": 1,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 2,
+			"player": 0,
+			"item": "Ripper"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 393,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 465,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 496,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "kick",
+			"stamp": 644,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 667,
+			"player": 0,
+			"item": "Ripper"
+		},
+		{
+			"name": "fire",
+			"stamp": 780,
+			"player": 0,
+			"damager": "Projectile:17:0",
+			"origin": [ -6,
+				-1325,
+				1885
+			],
+			"dir": [ -21,
+				154
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 784,
+			"player": 0,
+			"damager": "Projectile:18:0",
+			"origin": [ -19,
+				-1283,
+				1870
+			],
+			"dir": [ -23,
+				150
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 788,
+			"player": 0,
+			"damager": "Projectile:19:0",
+			"origin": [ -31,
+				-1241,
+				1855
+			],
+			"dir": [ -26,
+				151
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 792,
+			"player": 0,
+			"damager": "Projectile:20:0",
+			"origin": [ -43,
+				-1199,
+				1839
+			],
+			"dir": [ -26,
+				152
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 796,
+			"player": 0,
+			"damager": "Projectile:21:0",
+			"origin": [ -56,
+				-1158,
+				1823
+			],
+			"dir": [ -25,
+				155
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 800,
+			"player": 0,
+			"damager": "Projectile:17:1",
+			"origin": [ -75,
+				-1121,
+				1806
+			],
+			"dir": [ -23,
+				154
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 804,
+			"player": 0,
+			"damager": "Projectile:18:1",
+			"origin": [ -100,
+				-1087,
+				1787
+			],
+			"dir": [ -23,
+				158
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 808,
+			"player": 0,
+			"damager": "Projectile:19:1",
+			"origin": [ -130,
+				-1058,
+				1768
+			],
+			"dir": [ -19,
+				164
+			]
+		},
+		{
+			"name": "fire",
+			"stamp": 812,
+			"player": 0,
+			"damager": "Projectile:20:1",
+			"origin": [ -159,
+				-1029,
+				1750
+			],
+			"dir": [ -19,
+				170
+			]
+		},
+		{
+			"name": "equip",
+			"stamp": 849,
+			"player": 0,
+			"item": "Net"
+		},
+		{
+			"name": "throw",
+			"stamp": 997,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 1359,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 1374,
+			"player": 0,
+			"item": "Net"
+		},
+		{
+			"name": "equip",
+			"stamp": 1399,
+			"player": 0,
+			"item": "Ripper"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1438,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1490,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1542,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1582,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 1590,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1659,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1693,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1764,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1817,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 1832,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1844,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1900,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 1933,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 1970,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 1983,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2019,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2064,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 2093,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2109,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2150,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 2203,
+			"player": 0,
+			"item": "Net"
+		},
+		{
+			"name": "retract",
+			"stamp": 2254,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 2292,
+			"player": 0,
+			"item": "Ripper"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2320,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2376,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 2403,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 2419,
+			"player": 0,
+			"item": "Ripper"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2492,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2522,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2614,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 2632,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 2645,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 3001,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 3015,
+			"player": 0,
+			"item": "Ripper"
+		},
+		{
+			"name": "equip",
+			"stamp": 3063,
+			"player": 0,
+			"item": "Net"
+		},
+		{
+			"name": "equip",
+			"stamp": 3221,
+			"player": 0,
+			"item": "Ripper"
+		},
+		{
+			"name": "fire",
+			"stamp": 3262,
+			"player": 0,
+			"damager": "Projectile:17:2",
+			"origin": [ -306,
+				-1051,
+				1832
+			],
+			"dir": [ 5,
+				69
+			]
+		},
+		{
+			"name": "start_reload",
+			"stamp": 3280,
+			"player": 0
+		},
+		{
+			"name": "finish_reload",
+			"stamp": 3330,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 3419,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 3472,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 3485,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "damage",
+			"stamp": 3680,
+			"target": 0,
+			"damage": 1,
+			"prev_health": 10,
+			"causer": "A_DamageBoundary_C:2:0",
+			"node": "NTDamageBoundary:7:0"
+		},
+		{
+			"name": "damage",
+			"stamp": 3720,
+			"target": 0,
+			"damage": 1,
+			"prev_health": 9,
+			"causer": "A_DamageBoundary_C:2:0",
+			"node": "NTDamageBoundary:7:0"
+		},
+		{
+			"name": "damage",
+			"stamp": 3760,
+			"target": 0,
+			"damage": 1,
+			"prev_health": 8,
+			"causer": "A_DamageBoundary_C:2:0",
+			"node": "NTDamageBoundary:7:0"
+		},
+		{
+			"name": "damage",
+			"stamp": 3800,
+			"target": 0,
+			"damage": 1,
+			"prev_health": 7,
+			"causer": "A_DamageBoundary_C:2:0",
+			"node": "NTDamageBoundary:7:0"
+		},
+		{
+			"name": "damage",
+			"stamp": 3840,
+			"target": 0,
+			"damage": 1,
+			"prev_health": 6,
+			"causer": "A_DamageBoundary_C:2:0",
+			"node": "NTDamageBoundary:7:0"
+		},
+		{
+			"name": "damage",
+			"stamp": 3880,
+			"target": 0,
+			"damage": 1,
+			"prev_health": 5,
+			"causer": "A_DamageBoundary_C:2:0",
+			"node": "NTDamageBoundary:7:0"
+		},
+		{
+			"name": "damage",
+			"stamp": 3920,
+			"target": 0,
+			"damage": 1,
+			"prev_health": 4,
+			"causer": "A_DamageBoundary_C:2:0",
+			"node": "NTDamageBoundary:7:0"
+		},
+		{
+			"name": "damage",
+			"stamp": 3960,
+			"target": 0,
+			"damage": 1,
+			"prev_health": 3,
+			"causer": "A_DamageBoundary_C:2:0",
+			"node": "NTDamageBoundary:7:0"
+		},
+		{
+			"name": "damage",
+			"stamp": 4000,
+			"target": 0,
+			"damage": 1,
+			"prev_health": 2,
+			"causer": "A_DamageBoundary_C:2:0",
+			"node": "NTDamageBoundary:7:0"
+		},
+		{
+			"name": "damage",
+			"stamp": 4040,
+			"target": 0,
+			"damage": 1,
+			"prev_health": 1,
+			"causer": "A_DamageBoundary_C:2:0",
+			"node": "NTDamageBoundary:7:0"
+		},
+		{
+			"name": "elim",
+			"stamp": 4040,
+			"target": 0,
+			"causer": "A_DamageBoundary_C:2:0",
+			"node": "NTDamageBoundary:7:0"
+		},
+		{
+			"name": "set_loadout",
+			"stamp": 4045,
+			"player": 0,
+			"items": [
+				"Nightshade",
+				"Grapple"
+			]
+		},
+		{
+			"name": "spawn",
+			"stamp": 4240,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 4241,
+			"player": 0,
+			"item": "Nightshade"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 4511,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 4540,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 4569,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 4601,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 4614,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 4636,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 4674,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 4702,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 4740,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 4774,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 4800,
+			"player": 0,
+			"item": "Nightshade"
+		},
+		{
+			"name": "fire",
+			"stamp": 5006,
+			"player": 0,
+			"damager": "Nightshade:17:3",
+			"origin": [ -1402,
+				-1555,
+				1736
+			],
+			"dir": [ 0,
+				30
+			]
+		},
+		{
+			"name": "start_reload",
+			"stamp": 5018,
+			"player": 0
+		},
+		{
+			"name": "finish_reload",
+			"stamp": 5088,
+			"player": 0
+		},
+		{
+			"name": "fire",
+			"stamp": 5133,
+			"player": 0,
+			"damager": "Nightshade:17:3",
+			"origin": [ -1351,
+				-503,
+				2072
+			],
+			"dir": [ -8,
+				9
+			]
+		},
+		{
+			"name": "start_reload",
+			"stamp": 5145,
+			"player": 0
+		},
+		{
+			"name": "cancel_reload",
+			"stamp": 5151,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 5151,
+			"player": 0,
+			"item": "Grapple"
+		},
+		{
+			"name": "cast",
+			"stamp": 5222,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 5293,
+			"player": 0,
+			"item": "Nightshade"
+		},
+		{
+			"name": "start_reload",
+			"stamp": 5310,
+			"player": 0
+		},
+		{
+			"name": "finish_reload",
+			"stamp": 5380,
+			"player": 0
+		},
+		{
+			"name": "fire",
+			"stamp": 5425,
+			"player": 0,
+			"damager": "Nightshade:17:3",
+			"origin": [ 1918,
+				-3741,
+				911
+			],
+			"dir": [ 0,
+				167
+			]
+		},
+		{
+			"name": "start_reload",
+			"stamp": 5437,
+			"player": 0
+		},
+		{
+			"name": "cancel_reload",
+			"stamp": 5447,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 5447,
+			"player": 0,
+			"item": "Grapple"
+		},
+		{
+			"name": "cast",
+			"stamp": 5487,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 5665,
+			"player": 0,
+			"item": "Nightshade"
+		},
+		{
+			"name": "start_reload",
+			"stamp": 5682,
+			"player": 0
+		},
+		{
+			"name": "finish_reload",
+			"stamp": 5752,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 5786,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 5857,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 5879,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 5928,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 6034,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 6071,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 6086,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 6134,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 6162,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 6203,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 7336,
+			"player": 0,
+			"item": "Grapple"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 7393,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 7420,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 7451,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 7472,
+			"player": 0
+		},
+		{
+			"name": "cast",
+			"stamp": 7889,
+			"player": 0
+		},
+		{
+			"name": "cast",
+			"stamp": 7990,
+			"player": 0
+		},
+		{
+			"name": "cast",
+			"stamp": 8122,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 8271,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 8302,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 8321,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "cast",
+			"stamp": 8344,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 8468,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 8513,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 8526,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "cast",
+			"stamp": 8573,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 8698,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 8729,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 8741,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "cast",
+			"stamp": 8760,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 8898,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 9028,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 9028,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 9060,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 9099,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 9186,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 9213,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 9289,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 9331,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 9374,
+			"player": 0,
+			"item": "Nightshade"
+		},
+		{
+			"name": "equip",
+			"stamp": 9442,
+			"player": 0,
+			"item": "Grapple"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 9507,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 9576,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 9634,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 9674,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 9693,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 9733,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 9780,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 9818,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 9874,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 9938,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 9975,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 10003,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 10023,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 10132,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 10211,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 10291,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 10455,
+			"player": 0,
+			"item": "Nightshade"
+		},
+		{
+			"name": "equip",
+			"stamp": 10505,
+			"player": 0,
+			"item": "Grapple"
+		},
+		{
+			"name": "cast",
+			"stamp": 10538,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 10728,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 10812,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 10858,
+			"player": 0,
+			"item": "Nightshade"
+		},
+		{
+			"name": "equip",
+			"stamp": 10879,
+			"player": 0,
+			"item": "Grapple"
+		},
+		{
+			"name": "equip",
+			"stamp": 10945,
+			"player": 0,
+			"item": "Nightshade"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 10962,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 10965,
+			"player": 0,
+			"item": "Grapple"
+		},
+		{
+			"name": "cast",
+			"stamp": 11027,
+			"player": 0
+		},
+		{
+			"name": "cast",
+			"stamp": 11070,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 11263,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 11290,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 11661,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 11685,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 11813,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 11831,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 11910,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 11975,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 11996,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 12047,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 12107,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 12134,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 12255,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 12287,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 12355,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 12376,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 12983,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 13121,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 13186,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 13234,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 13298,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 13338,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 13360,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 13393,
+			"player": 0
+		},
+		{
+			"name": "cast",
+			"stamp": 13421,
+			"player": 0
+		},
+		{
+			"name": "cast",
+			"stamp": 13518,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 13662,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 13693,
+			"player": 0
+		},
+		{
+			"name": "dash",
+			"stamp": 13706,
+			"player": 0,
+			"dir": "X"
+		},
+		{
+			"name": "cast",
+			"stamp": 13780,
+			"player": 0
+		},
+		{
+			"name": "cast",
+			"stamp": 13916,
+			"player": 0
+		},
+		{
+			"name": "surface_lock",
+			"stamp": 14067,
+			"player": 0
+		},
+		{
+			"name": "push_off",
+			"stamp": 14094,
+			"player": 0
+		},
+		{
+			"name": "cast",
+			"stamp": 14123,
+			"player": 0
+		},
+		{
+			"name": "kick",
+			"stamp": 14207,
+			"player": 0
+		},
+		{
+			"name": "equip",
+			"stamp": 14225,
+			"player": 0,
+			"item": "Grapple"
+		},
+		{
+			"name": "leave",
+			"stamp": 14278,
+			"id": 0
+		}
+	]
+}
