@@ -21,6 +21,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn statsmodels lifelines s
 * `blender_scripts/`: Python scripts to be run inside Blender for s4
 * `match_data/`: a folder containing all of the gameplay data used in this analysis
 
+* `ReplayDriver_GameStats`: the C++ script used for initial data aggregation in the executable (not runnable, just for review purposes)
+
 # :rocket: How to Run
 
 Run the master script `master_analysis.py` from the root directory
