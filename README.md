@@ -4,6 +4,8 @@ Author: **Luke Del Giudice**
 
 This repository contains a modular Python pipeline designed to extract and analyze data from the game Astro.
 
+The presentation google slideshow link: https://docs.google.com/presentation/d/1a9XUK3Q5WCbq289itJT7fzWBEtFkoV1gci7Adz-uIeI/edit?usp=sharing
+
 ## :snake: Python Dependencies
 
 Install the required libraries using pip (or any other package installer):
