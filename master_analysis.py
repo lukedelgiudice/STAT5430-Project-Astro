@@ -10,7 +10,7 @@ from config import OUTPUT_DIR, SUBDIRS, USE_SINGLE_CORE
 from game_etl import process_single_file
 
 from studies import (
-    s0_metadata_analysis,
+    s0_metadata_analysis, 
     s1_summary_analysis,
     s2_health_analysis,
     s3_winrate_analysis,
