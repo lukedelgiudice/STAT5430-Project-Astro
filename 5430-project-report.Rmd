@@ -5,7 +5,7 @@ author:
   affiliation: University of Virginia
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 output:
-  pdf_document:
+  pdf_document: 
     citation_package: natbib
     keep_tex: true
     fig_caption: true

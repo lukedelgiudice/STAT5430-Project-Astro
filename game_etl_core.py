@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import json
 import re
-from config import *
+from config import * 
 
 class GameProcessor:
     def __init__(self, game_id, json_path, update_path, perf_paths_list):

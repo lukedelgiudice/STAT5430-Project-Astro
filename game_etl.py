@@ -1,5 +1,5 @@
 import traceback
-from game_etl_core import GameProcessor
+from game_etl_core import GameProcessor 
 
 from studies import (
     s0_metadata_etl,
